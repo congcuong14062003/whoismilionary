@@ -1,0 +1,52 @@
+﻿BỘ CÂU HỎI THẾ GIỚI — 2.000 CÂU
+Phiên bản 1 • 27/11/2026
+
+FILE ĐỂ NHẬP VÀO QUIZ
+CAU_HOI_THE_GIOI_2000.json
+
+CÁCH NHẬP
+1. Mở trang quản trị quiz: http://127.0.0.1:8093/admin
+2. Cuộn tới mục "Ngân hàng câu hỏi".
+3. Bấm "Nhập JSON", chọn CAU_HOI_THE_GIOI_2000.json.
+4. Chờ thông báo "Đã nhập câu hỏi". Bộ này thêm 2.000 câu vào ngân hàng hiện có.
+5. Đặt thời gian trả lời 20 giây và bấm "Lưu cấu hình" hoặc "Bắt đầu ván".
+Chỉ nhập bộ này một lần; nhập lại sẽ bị chặn do câu trùng.
+Không cần xóa các câu đang có. File CSV đi kèm dùng để mở bằng Excel và biên tập; app hiện chỉ nhận nhập JSON.
+
+NỘI DUNG
+- 2.000 câu tiếng Việt, mỗi câu 4 lựa chọn A, B, C, D.
+- 13 nhóm chủ đề: địa lý; lịch sử; văn học/nghệ thuật; khoa học; thiên nhiên/sinh học; vũ trụ; công nghệ; thể thao; ẩm thực; thần thoại/văn hóa; điện ảnh; âm nhạc; toán học.
+- 15 mức khó ước lượng, mỗi mức có 133 hoặc 134 câu, dùng cho 15 mốc của game.
+- Đáp án A/B/C/D được phân bố đều, 500 câu cho mỗi vị trí.
+- seconds=20; thời gian ở trang quản trị là cấu hình được game ưu tiên.
+- approved=true để dùng ngay sau import; đây là cờ cho phép hiển thị trong app, không phải chứng nhận kiểm định nội dung.
+- File THONG_KE.json ghi số lượng thực tế của từng chủ đề/mức khó.
+
+CHỈNH SỬA JSON
+File gồm đối tượng có thuộc tính questions chứa danh sách câu hỏi.
+Một câu có các trường:
+id: mã duy nhất; giữ nguyên khi chỉ sửa nội dung.
+text: nội dung câu hỏi.
+options: mảng 4 đáp án theo thứ tự A, B, C, D.
+answer: chữ A, B, C hoặc D trỏ tới lựa chọn đúng.
+explanation: có thể bổ sung lời giải; bộ này để trống khi không có lời giải đã kiểm chứng.
+topic: chủ đề.
+difficulty: số nguyên 1 đến 15.
+seconds: số giây.
+source: liên kết dữ liệu gốc để đối chiếu.
+approved: true để đưa vào game.
+
+Nếu đổi thứ tự options, phải đổi answer tương ứng. Lưu file dưới dạng UTF-8.
+
+NGUỒN VÀ GIỚI HẠN
+Dữ liệu nền: open-quiz-bank của tamino-martinius và người đóng góp.
+https://github.com/tamino-martinius/node-open-quiz-bank
+Giấy phép dữ liệu: CC0-1.0; xem LICENSE-CC0.txt đi kèm.
+Bộ này được dịch, chọn lọc, sửa một số tên riêng, lọc câu trùng và phân mức khó lại để dùng với quiz tiếng Việt.
+Không phải ngân hàng câu hỏi chính thức hoặc bản sao được xác nhận của chương trình Ai Là Triệu Phú.
+Đã rà soát mẫu và kiểm tra định dạng/nhập liệu; chưa thẩm định độc lập từng đáp án trong toàn bộ 2.000 câu. Nên biên tập nội dung trước buổi phát sóng quan trọng.
+
+KIỂM TRA KỸ THUẬT
+Đã dùng chính cleanQuestion của app để kiểm tra đủ 4 lựa chọn, đáp án hợp lệ, mã/nội dung không trùng với 100 câu mẫu và ngân hàng hiện tại tại lúc tạo file.
+Đã thử nhập nguyên bộ trên server thử tách riêng; kiểm tra các lựa chọn và đáp án được giữ nguyên, bao gồm dấu tiếng Việt.
+Không tự nhập vào ngân hàng đang chạy của anh.

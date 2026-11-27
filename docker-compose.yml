@@ -1,0 +1,16 @@
+services:
+  game:
+    build: .
+    ports:
+      - "8093:8093"
+    environment:
+      PORT: 8093
+      HOST: 0.0.0.0
+      COMMENT_WEBHOOK_SECRET: ${COMMENT_WEBHOOK_SECRET}
+      DATA_FILE: /app/data/state.json
+      AUTO_START: ${AUTO_START:-false}
+    volumes:
+      - game-data:/app/data
+    restart: unless-stopped
+volumes:
+  game-data:
