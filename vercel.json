@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "framework": null,
+  "buildCommand": "node tools/build-vercel.js",
+  "outputDirectory": "public",
+  "functions": {
+    "api/index.js": {
+      "maxDuration": 300,
+      "includeFiles": "{cloud/**,game.js,questions.js,adapters.js,direct-live.js}"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "/api/index?quiz_path=:path*"
+    },
+    {
+      "source": "/",
+      "destination": "/live.html"
+    },
+    {
+      "source": "/live",
+      "destination": "/live.html"
+    },
+    {
+      "source": "/admin",
+      "destination": "/admin.html"
+    },
+    {
+      "source": "/overlay",
+      "destination": "/overlay.html"
+    },
+    {
+      "source": "/leaderboard",
+      "destination": "/leaderboard.html"
+    },
+    {
+      "source": "/demo",
+      "destination": "/demo.html"
+    },
+    {
+      "source": "/questions",
+      "destination": "/admin.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; img-src 'self' https: data:; style-src 'self'; script-src 'self'; connect-src 'self'; media-src 'self'; base-uri 'none'; frame-ancestors 'self'"
+        }
+      ]
+    }
+  ]
+}

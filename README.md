@@ -82,3 +82,9 @@ Chạy `npm test` để kiểm tra xử lý comment, tính điểm, giới hạn
 ## Thêm câu hỏi trong lúc live
 
 Bấm **＋ Nhập thêm câu hỏi** cạnh các nút điều khiển, chọn file JSON. Hệ thống báo số câu mới, số câu trùng đã bỏ qua và tổng ngân hàng. Câu đang phát, thời gian trả lời và điểm được giữ; câu mới được chọn ở các lượt tiếp theo theo độ khó. Có sẵn bộ question-bank/CAU_HOI_BO_SUNG_500.json không trùng bộ 2.000 câu trước. File cần một mảng câu hỏi hoặc đối tượng có questions; giới hạn yêu cầu import là 8 MB. Câu không ghi approved được phép dùng ngay; đặt approved:false để chờ duyệt. Game ưu tiên câu chưa xuất hiện trong lịch sử lưu (tối đa 10.000 lượt); sau đó chọn câu được hỏi lâu nhất.
+
+## Chạy toàn bộ trên Vercel
+
+Dùng vercel.json trong repository: giao diện được phục vụ từ public, API chạy ở api/index.js. Kết nối Upstash Redis từ Storage của dự án Vercel để lưu chung ván chơi, điểm và câu hỏi giữa các phiên xử lý. Không dùng data/state.json để lưu trên Vercel. Đọc VERCEL_SETUP.txt để cấu hình biến môi trường và redeploy; /api/health trả ok:true khi Redis sẵn sàng.
+
+Giữ ít nhất một tab /admin hoặc /live hoạt động để nhận comment TikTok. Kết nối streaming có thời hạn và tự nối lại; có thể có khoảng ngắt nhận chat khi chuyển phiên. Không có tiến trình nhận chat chạy độc lập sau khi đóng hết tab. Dữ liệu local không tự chuyển lên Redis: import file JSON vào bản online. Kiểm tra cloud bằng npm run test:cloud trên Node 22 trở lên; bài kiểm tra dùng Redis REST mô phỏng và hai phiên API riêng, không truy cập dữ liệu production.

@@ -1,0 +1,55 @@
+﻿CHẠY QUIZ TOÀN BỘ TRÊN VERCEL
+
+1. Đưa mã mới lên repository của dự án Vercel. Giữ file vercel.json.
+   Build Command: node tools/build-vercel.js
+   Output Directory: public
+   Framework Preset: Other. Không chạy npm start làm Build Command.
+
+2. Trong dự án Vercel, mở Storage → Create/Connect Database → Upstash Redis.
+   Kết nối database vào dự án, chọn Production (và Preview nếu dùng).
+   Đây là dịch vụ lưu dữ liệu, không phải một backend VPS riêng.
+   Chọn gói phù hợp với lưu lượng thực tế. Xem hạn mức/gói trực tiếp khi tạo.
+
+3. Kiểm tra Environment Variables có đủ MỘT trong hai cặp:
+   UPSTASH_REDIS_REST_URL + UPSTASH_REDIS_REST_TOKEN
+   hoặc KV_REST_API_URL + KV_REST_API_TOKEN.
+   Phải dùng token đọc/ghi, không dùng token chỉ đọc.
+   Không đưa token vào frontend và không cần gửi token trong chat.
+
+4. Redeploy. Nếu cần tên kho riêng, thêm QUIZ_STORAGE_KEY=quiz-cua-anh.
+   Production dùng kho production; Preview dùng kho riêng theo nhánh.
+   Không đổi QUIZ_STORAGE_KEY giữa các lần redeploy nếu muốn giữ cùng dữ liệu.
+
+5. Mở /api/health. Kết quả đúng:
+   {"ok":true,"platform":"vercel","storage":"redis"}
+   Nếu thiếu Redis, API trả 503 và thông báo cách cấu hình, không trả thành công giả.
+
+6. Mở /admin, đặt thời gian rồi bấm Bắt đầu ván. Mở /live trong tab/thiết bị khác.
+   Các tab và các phiên xử lý đọc chung ván chơi từ Redis.
+   Các file câu hỏi đang lưu trên máy không tự đi lên Redis.
+   Dùng nút Nhập thêm câu hỏi để nhập lại file JSON mong muốn lên bản online.
+
+7. Nhận comment TikTok:
+   Bắt đầu TikTok LIVE → nhập @username → Kết nối.
+   GIỮ ÍT NHẤT MỘT TAB /admin hoặc /live đang kết nối, đang hoạt động.
+   Kết nối SSE đang mở duy trì việc đếm thời gian và tác vụ nhận comment.
+   Redis cấp lease để chỉ một phiên xử lý nhận chat và ghi điểm tại một thời điểm.
+   Khi Vercel kết thúc một lượt chạy streaming, trình duyệt tự kết nối lại.
+   TikTok có thể cần nối lại giữa các lượt, có thể có khoảng gián đoạn nhận comment.
+   Đóng hết tab hoặc để thiết bị ngủ sẽ không có tiến trình nhận comment chạy nền độc lập.
+   Thư viện TikTok không chính thức vẫn phụ thuộc TikTok/dịch vụ ký kết nối.
+
+GIỚI HẠN VÀ VẬN HÀNH
+- Dữ liệu bền vững ở Redis; không ghi data/state.json trên Vercel.
+- Mỗi lệnh thay đổi dùng khóa Redis và kiểm tra quyền sở hữu trước khi ghi.
+- Kho câu hỏi tách khỏi trạng thái ván để không tải lại cả kho mỗi nhịp cập nhật.
+- File import trên Vercel cần dưới 4 MB sau khi gửi; bộ 2.000 và 500 câu hiện tại nằm trong giới hạn này.
+- Các phiên stream có thời hạn dưới giới hạn function 300 giây và tự nối lại.
+- Lưu lượng streaming/Redis tính vào hạn mức của tài khoản. Có thể hết hạn mức khi live dài hoặc có nhiều thiết bị.
+- /admin hiện vẫn mở trực tiếp như cấu hình anh đã yêu cầu trước đây: người có link có thể điều khiển.
+- Bản chạy local bằng PLAY_QUIZ.bat vẫn sử dụng server và file dữ liệu tại máy.
+
+TÀI LIỆU
+https://vercel.com/marketplace/upstash
+https://upstash.com/docs/redis/features/restapi
+https://vercel.com/docs/functions/limitations

@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "start": "node launcher.js",
-    "test": "node test.js"
+    "test": "node test.js",
+    "build:vercel": "node tools/build-vercel.js",
+    "test:cloud": "node test-cloud.js"
   },
   "engines": {
     "node": ">=22"

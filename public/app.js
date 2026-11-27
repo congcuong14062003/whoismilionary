@@ -6,7 +6,10 @@ const money=x=>new Intl.NumberFormat('vi-VN').format(x||0);
 const phaseName={idle:'Chưa bắt đầu',question:'Đang nhận đáp án',suspense:'Đã khóa đáp án',reveal:'Công bố kết quả',intermission:'Chờ câu tiếp theo',finished:'Kết thúc ván'};
 const nav=`<nav class="site-nav"><div class="brand">AI LÀ <em>TRIỆU PHÚ</em></div><div class="nav-links"><a href="/live">Màn hình live</a><a href="/demo">Trải nghiệm</a><a href="/leaderboard">Xếp hạng</a><a href="/admin">Quản trị</a></div></nav>`;
 async function api(url,method='GET',body){const r=await fetch(url,{method,headers:body?{'Content-Type':'application/json'}:{},body:body?JSON.stringify(body):undefined,credentials:'same-origin'});let data;try{data=await r.json();}catch{data={error:'Không đọc được phản hồi'};}if(!r.ok)throw Error(data.error||'Yêu cầu thất bại');return data;}
-function connect(){eventSource=new EventSource('/api/events');eventSource.onmessage=e=>{try{state=JSON.parse(e.data);receivedAt=Date.now();render();voice();document.dispatchEvent(new CustomEvent('quiz-state',{detail:state}));}catch(err){console.error(err);}};eventSource.onerror=()=>{const n=document.getElementById('network');if(n)n.textContent='Đang kết nối lại…';};}
+function reportServerError(message){const el=document.getElementById('server-status');if(el){el.textContent=message;el.hidden=false;}notice(message);}
+function applySnapshot(data){state=data;receivedAt=Date.now();render();voice();document.dispatchEvent(new CustomEvent('quiz-state',{detail:state}));const el=document.getElementById('server-status');if(el)el.hidden=true;}
+async function connect(){try{applySnapshot(await api('/api/state'));eventSource=new EventSource('/api/events');eventSource.onmessage=e=>{try{applySnapshot(JSON.parse(e.data));}catch(err){console.error(err);}};eventSource.addEventListener('cloud-error',e=>{try{reportServerError(JSON.parse(e.data).error);}catch{}});eventSource.onerror=()=>{const n=document.getElementById('network');if(n)n.textContent='Đang kết nối lại…';api('/api/state').then(applySnapshot).catch(e=>reportServerError(e.message));};}catch(e){reportServerError(e.message);setTimeout(connect,5000);}}
+
 // Server and client clocks are aligned through the snapshot's `now` value.
 let receivedAt=Date.now();
 function remaining(){if(!state||['idle','intermission'].includes(state.phase)||(state.phase==='finished'&&!state.settings.auto))return 0;if(state.status==='paused')return Math.ceil(state.pausedRemaining/1000);return Math.max(0,Math.ceil((state.phaseEndsAt-state.now-(Date.now()-receivedAt))/1000));}
@@ -48,6 +51,7 @@ document.getElementById('import-json').onchange=importQuestions;
 try{adminEnhance();}catch(e){notice(`Lỗi bố cục quản trị: ${e.message}`);console.error(e);}renderAdmin();}
 function adminEnhance(){
   const grid=root.querySelector('.grid'), left=grid.children[0], right=grid.children[1];
+  grid.insertAdjacentHTML('beforebegin','<p id="server-status" class="server-status" role="status" hidden></p>');
   const [control,bank]=[...left.children], [chat,mock,leaders]=[...right.children];
   mock.querySelector('h2').textContent='Thử chấm điểm trước khi LIVE';
   mock.querySelector('h2').insertAdjacentHTML('afterend','<div class="test-answer">Đáp án hiện tại: <strong id="test-answer">—</strong></div>');
