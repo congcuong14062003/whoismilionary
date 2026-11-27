@@ -46,7 +46,7 @@ class Game {
     this.connection = { mode:this.settings.streamerUsername?'idle':'mock', status:this.settings.streamerUsername?'Chưa kết nối LIVE':'Mô phỏng', username:this.settings.streamerUsername, connected:false, lastEventAt:null, received:0, lastComment:null, deliveryLagMs:null };
     if (this.state.status === 'running' && this.state.phase !== 'idle') this.tick();
   }
-  persist() { return { questions:this.questions, players:this.players, history:this.history.slice(-1000), round:this.round, season:this.season, settings:this.settings, state:this.state, votes:this.votes, answers:this.answers, recentCorrect:this.recentCorrect }; }
+  persist() { return { questions:this.questions, players:this.players, history:this.history.slice(-10000), round:this.round, season:this.season, settings:this.settings, state:this.state, votes:this.votes, answers:this.answers, recentCorrect:this.recentCorrect }; }
   current() { return this.questions.find(q => q.id === this.state.questionId) || null; }
   publicState() {
     const q = this.current();
@@ -63,8 +63,12 @@ class Game {
     const candidates = approved.filter(q=>q.difficulty === difficulty);
     const pool = candidates.length ? candidates : approved;
     if (!pool.length) throw Error('Chưa có câu hỏi đã duyệt');
-    const recent = new Set(this.history.slice(-30).map(x=>x.questionId));
-    return pool.find(q=>!recent.has(q.id)) || pool[(this.round + index) % pool.length];
+    const lastSeen=new Map();for(let i=0;i<this.history.length;i++)lastSeen.set(this.history[i].questionId,i);
+    const eligible=pool.filter(q=>q.id!==this.state.questionId);
+    const choices=eligible.length?eligible:pool;
+    const unseen=choices.filter(q=>!lastSeen.has(q.id));
+    if(unseen.length)return unseen[Math.floor(Math.random()*unseen.length)];
+    return choices.reduce((oldest,q)=>lastSeen.get(q.id)<lastSeen.get(oldest.id)?q:oldest);
   }
   start(now=Date.now()) {
     if (this.state.status === 'running' && this.state.phase !== 'finished') throw Error('Game đang chạy');

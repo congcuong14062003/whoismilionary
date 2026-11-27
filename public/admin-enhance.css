@@ -18,3 +18,7 @@
 .admin-page .final-rank{font-size:.65em;margin-top:.35em;color:#fff}
 @media(max-width:900px){.admin-page .grid{grid-template-columns:1fr}.admin-page .admin-preview{position:static}}
 @media(max-width:600px){.admin-page .config-time-grid,.admin-page #source-form{grid-template-columns:1fr}}
+
+.admin-page .question-import{margin:16px 0;padding:14px;border:1px solid #ffd47255;border-radius:12px;background:#ffd47209}.admin-page #bank-count{margin-left:12px}.admin-page #import-status{font-size:13px;color:var(--gold);line-height:1.5;margin-bottom:0}.btn:disabled{opacity:.6;cursor:wait}
+
+.admin-page .bank-summary{padding:16px;margin:0 0 18px;background:linear-gradient(120deg,#ffd4721e,#ffffff08);border:1px solid #ffd47266;border-radius:14px}.admin-page .bank-summary h3{margin:0 0 12px;font-size:17px;color:var(--gold)}.admin-page .bank-summary-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.admin-page .bank-summary-grid strong{display:block;font-size:30px;line-height:1.2;color:var(--gold)}.admin-page .bank-summary-grid span{display:block;font-size:12px;color:var(--muted);margin-top:5px}@media(max-width:450px){.admin-page .bank-summary-grid{grid-template-columns:1fr}.admin-page .bank-summary-grid>div{display:flex;align-items:center;gap:12px}}

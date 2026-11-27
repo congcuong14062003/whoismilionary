@@ -50,3 +50,7 @@ KIỂM TRA KỸ THUẬT
 Đã dùng chính cleanQuestion của app để kiểm tra đủ 4 lựa chọn, đáp án hợp lệ, mã/nội dung không trùng với 100 câu mẫu và ngân hàng hiện tại tại lúc tạo file.
 Đã thử nhập nguyên bộ trên server thử tách riêng; kiểm tra các lựa chọn và đáp án được giữ nguyên, bao gồm dấu tiếng Việt.
 Không tự nhập vào ngân hàng đang chạy của anh.
+
+
+BỔ SUNG KHI ĐANG LIVE
+Bấm nút "＋ Nhập thêm câu hỏi" cạnh phần điều khiển và chọn CAU_HOI_BO_SUNG_500.json. Đây là 500 câu bổ sung, không trùng bộ 2.000 câu trước. Câu đang chạy, bộ đếm và điểm người chơi được giữ. Câu mới sẵn sàng từ lượt tiếp theo theo mức khó. Nhập lại file sẽ bỏ qua các câu trùng. Các câu bổ sung cũng dùng nguồn CC0 và quy trình dịch/lọc như bộ trước; chưa thẩm định độc lập toàn bộ đáp án.

@@ -71,7 +71,7 @@ const server=http.createServer(async(req,res)=>{
       if(req.method==='POST' && p==='/api/admin/live-disconnect') {direct.stop();return json(res,200,game.publicState().connection);}
       if(req.method==='GET' && p==='/api/admin/export.json')return json(res,200,game.questions);
       if(req.method==='GET' && p==='/api/admin/export.csv'){res.writeHead(200,{'Content-Type':'text/csv; charset=utf-8','Content-Disposition':'attachment; filename="questions.csv"'});return res.end('\ufeff'+renderCsv(game.questions));}
-      const body=await readBody(req);
+      const body=await readBody(req,p==='/api/admin/import'?8*1024*1024:1048576);
       if(req.method==='POST' && p==='/api/admin/control') {
         const action=body.action, now=Date.now();
         if(action==='start')game.start(now);else if(action==='pause')game.pause(now);else if(action==='resume')game.resume(now);else if(action==='stop')game.stop();else if(action==='next')game.skip(now);else if(action==='lock')game.lock(now);else if(action==='reveal')game.reveal(now);else if(action==='reset-scores'){for(const p of Object.values(game.players)){p.points=0;p.streak=0;p.correctTimeMs=0;}game.changed();}else if(action==='new-season'){game.season++;game.players={};game.history=[];game.round=0;game.votes={};game.answers={};game.recentCorrect=[];game.stop();}else throw Error('Thao tác không hợp lệ');
@@ -84,7 +84,20 @@ const server=http.createServer(async(req,res)=>{
       if(req.method==='POST' && p==='/api/admin/questions') {const q=cleanQuestion(body,game.questions);game.questions.push(q);game.changed();return json(res,201,q);}
       if(req.method==='PUT' && p.startsWith('/api/admin/questions/')) {const id=decodeURIComponent(p.split('/').pop()),i=game.questions.findIndex(q=>q.id===id);if(i<0)return fail(res,404,'Không tìm thấy câu hỏi');const q=cleanQuestion({...game.questions[i],...body,id},game.questions);game.questions[i]=q;game.changed();return json(res,200,q);}
       if(req.method==='DELETE' && p.startsWith('/api/admin/questions/')) {const id=decodeURIComponent(p.split('/').pop());game.questions=game.questions.filter(q=>q.id!==id);game.changed();return json(res,200,{ok:true});}
-      if(req.method==='POST' && p==='/api/admin/import') {if(!Array.isArray(body.questions))throw Error('Cần mảng questions');const incoming=[];for(const item of body.questions) incoming.push(cleanQuestion(item,[...game.questions,...incoming]));game.questions.push(...incoming);game.changed();return json(res,200,{inserted:incoming.length});}
+      if(req.method==='POST' && p==='/api/admin/import') {
+        if(!Array.isArray(body.questions)||!body.questions.length)throw Error('File cần có danh sách câu hỏi không rỗng');
+        const key=text=>String(text||'').normalize('NFC').trim().replace(/\s+/g,' ').toLocaleLowerCase('vi');
+        const seen=new Set(game.questions.map(q=>key(q.text))),ids=new Set(game.questions.map(q=>q.id)),incoming=[];let skipped=0;
+        for(let i=0;i<body.questions.length;i++) {
+          const item=body.questions[i];if(!item||typeof item!=='object')throw Error('Câu '+(i+1)+': dữ liệu không hợp lệ');
+          if(seen.has(key(item.text))){skipped++;continue;}
+          let q;try{q=cleanQuestion({...item,approved:item.approved!==false},[]);}catch(e){throw Error('Câu '+(i+1)+': '+e.message);}
+          if(ids.has(q.id))q.id=crypto.randomBytes(12).toString('hex');
+          seen.add(key(q.text));ids.add(q.id);incoming.push(q);
+        }
+        game.questions.push(...incoming);if(incoming.length)game.changed();
+        return json(res,200,{inserted:incoming.length,skipped,total:game.questions.length,approved:game.questions.filter(q=>q.approved).length});
+      }
       return fail(res,404,'Không tìm thấy API');
     } catch(e){return fail(res,400,e.message);}
   }

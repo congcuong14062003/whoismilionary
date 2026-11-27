@@ -1,0 +1,8359 @@
+[
+  {
+    "id": "en-technology-44c38827e601",
+    "lang": "en",
+    "prompt": "Which Windows operating system, notorious for its instability, was released between Windows 98 and Windows 2000?",
+    "answer": "Windows ME (Millennium Edition)",
+    "distractors": [
+      "Windows Vista",
+      "Windows NT",
+      "Windows XP"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-467b5f059f38",
+    "lang": "en",
+    "prompt": "On which continent is Jordan?",
+    "answer": "Asia",
+    "distractors": [
+      "Oceania",
+      "Europe",
+      "Africa"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "asia"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-cdebbd893f90",
+    "lang": "en",
+    "prompt": "What is an anesthesiologist?",
+    "answer": "A doctor who anesthetizes people",
+    "distractors": [
+      "A dermatologist",
+      "An ophthalmologist",
+      "A pediatrician"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-8f3ea3310f74",
+    "lang": "en",
+    "prompt": "In which two German federal states does the Hunsrück mountain range lie?",
+    "answer": "Rhineland-Palatinate and Saarland",
+    "distractors": [
+      "Hesse and Thuringia",
+      "Baden-Württemberg and Bavaria",
+      "North Rhine-Westphalia and Hesse"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-d592abcac32b",
+    "lang": "en",
+    "prompt": "Who served as President of the United States from 2009 to 2017?",
+    "answer": "Barack Obama",
+    "distractors": [
+      "George W. Bush",
+      "Donald Trump",
+      "Joe Biden"
+    ],
+    "tags": [
+      "history",
+      "politics",
+      "usa"
+    ],
+    "difficulty": 1,
+    "category": "history"
+  },
+  {
+    "id": "en-history-d07c65cf08ef",
+    "lang": "en",
+    "prompt": "What is the name of the Sicilian volcano that erupted in the early 1990s?",
+    "answer": "Etna",
+    "distractors": [
+      "Vesuvius",
+      "Stromboli",
+      "Vulcano"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-history-1890cb62d2a0",
+    "lang": "en",
+    "prompt": "From which people did the rulers of the Mughal Empire, which ruled India from 1526 to 1858, descend?",
+    "answer": "From the Mongols (Timurids)",
+    "distractors": [
+      "From the Persians",
+      "From the Arabs",
+      "From the Turks"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-science-e8597b4226f0",
+    "lang": "en",
+    "prompt": "What color is a ruby?",
+    "answer": "Red",
+    "distractors": [
+      "Green",
+      "Blue",
+      "Violet"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-history-6eac253eac84",
+    "lang": "en",
+    "prompt": "What is the name of the 17th-century war that began as a religious war and ended in 1648?",
+    "answer": "The Thirty Years' War",
+    "distractors": [
+      "The Hundred Years' War",
+      "The Seven Years' War",
+      "The Peasants' War"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-science-9b721a8698de",
+    "lang": "en",
+    "prompt": "Which material is made from copper and tin?",
+    "answer": "Bronze",
+    "distractors": [
+      "Brass",
+      "Steel",
+      "Stainless steel"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-science-5d26ab143961",
+    "lang": "en",
+    "prompt": "What is the atomic number of iron?",
+    "answer": "26",
+    "distractors": [
+      "27",
+      "28",
+      "29"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-history-05259df144b4",
+    "lang": "en",
+    "prompt": "Which company did the brothers Karl and Theo Albrecht found?",
+    "answer": "Aldi",
+    "distractors": [
+      "Lidl",
+      "Edeka",
+      "Rewe"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-9674bd5a9746",
+    "lang": "en",
+    "prompt": "What is the capital of France?",
+    "answer": "Paris",
+    "distractors": [
+      "Berlin",
+      "Rome",
+      "Madrid"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "europe"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-4154d26e94d5",
+    "lang": "en",
+    "prompt": "In which city was Johann Wolfgang von Goethe born?",
+    "answer": "Frankfurt am Main",
+    "distractors": [
+      "Weimar",
+      "Leipzig",
+      "Strasbourg"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-science-aa88b2ca5e68",
+    "lang": "en",
+    "prompt": "What is the physical unit for magnetic flux density?",
+    "answer": "Tesla",
+    "distractors": [
+      "Weber",
+      "Henry",
+      "Gauss"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-science-1b880bdd9945",
+    "lang": "en",
+    "prompt": "Which cell organelles are known as the 'powerhouses of the cell'?",
+    "answer": "Mitochondria",
+    "distractors": [
+      "Ribosomes",
+      "Lysosomes",
+      "Chloroplasts"
+    ],
+    "tags": [
+      "science",
+      "cell-biology"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-science-0de74874cd9e",
+    "lang": "en",
+    "prompt": "What is the name of the scientific discipline dedicated specifically to the study of fish?",
+    "answer": "ichthyology",
+    "distractors": [
+      "herpetology",
+      "ornithology",
+      "mycology"
+    ],
+    "tags": [
+      "science",
+      "biology",
+      "greek-roots",
+      "scientific-fields"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-science-a8265d44b246",
+    "lang": "en",
+    "prompt": "Which unit expresses the strength (optical power) of eyeglasses or a lens?",
+    "answer": "Dioptre",
+    "distractors": [
+      "Lux",
+      "Lumen",
+      "Kelvin"
+    ],
+    "tags": [
+      "science",
+      "units"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-science-df433e49a040",
+    "lang": "en",
+    "prompt": "Brass is an alloy of which two metals?",
+    "answer": "Copper and zinc",
+    "distractors": [
+      "Iron and carbon",
+      "Copper and tin",
+      "Iron and nickel"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-science-798eb51d4b61",
+    "lang": "en",
+    "prompt": "How many teeth does a typical adult human have?",
+    "answer": "32",
+    "distractors": [
+      "28",
+      "30",
+      "36"
+    ],
+    "tags": [
+      "science",
+      "biology",
+      "human-body"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-history-99889518e508",
+    "lang": "en",
+    "prompt": "What is the full name of the Roman general Julius Caesar?",
+    "answer": "Gaius Julius Caesar",
+    "distractors": [
+      "Marcus Julius Caesar",
+      "Lucius Julius Caesar",
+      "Gnaeus Julius Caesar"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-history-86d377c830e7",
+    "lang": "en",
+    "prompt": "Approximately how long is the Great Wall of China (including all branches)?",
+    "answer": "About 21,000 kilometers",
+    "distractors": [
+      "About 6,000 kilometers",
+      "About 10,000 kilometers",
+      "About 35,000 kilometers"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-b65d834542ba",
+    "lang": "en",
+    "prompt": "What is the capital of the U.S. state of Texas?",
+    "answer": "Austin",
+    "distractors": [
+      "Houston",
+      "Dallas",
+      "San Antonio"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "usa",
+      "north-america"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-bcab382e1e27",
+    "lang": "en",
+    "prompt": "What is the capital of Paraguay?",
+    "answer": "Asunción",
+    "distractors": [
+      "San José",
+      "Kingston",
+      "Guatemala City"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "south-america"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-1d37aa7d0dac",
+    "lang": "en",
+    "prompt": "Which chemical element has the symbol \"Pt\"?",
+    "answer": "Platinum",
+    "distractors": [
+      "Gold",
+      "Mercury",
+      "Lead"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-history-7bc6f69f4bca",
+    "lang": "en",
+    "prompt": "What prisoner number did Nelson Mandela have during his imprisonment on Robben Island?",
+    "answer": "466/64",
+    "distractors": [
+      "221/63",
+      "47/11",
+      "664/50"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 5,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-0125c7e85abc",
+    "lang": "en",
+    "prompt": "What is the capital of Iraq?",
+    "answer": "Baghdad",
+    "distractors": [
+      "Budapest",
+      "Bucharest",
+      "Zagreb"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "asia"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-07a71b327d44",
+    "lang": "en",
+    "prompt": "What happens when switching between summer time and winter time?",
+    "answer": "The clocks are adjusted",
+    "distractors": [
+      "The calendar is changed",
+      "The time zone is switched",
+      "A leap day is added"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-a6e754263934",
+    "lang": "en",
+    "prompt": "How many countries does Austria border?",
+    "answer": "Eight",
+    "distractors": [
+      "Six",
+      "Seven",
+      "Nine"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-ae2367b9527c",
+    "lang": "en",
+    "prompt": "On which continent is Ukraine?",
+    "answer": "Europe",
+    "distractors": [
+      "Oceania",
+      "Africa",
+      "Asia"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "europe"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-a3def2bf96d5",
+    "lang": "en",
+    "prompt": "What is the main official language of Brazil?",
+    "answer": "Portuguese",
+    "distractors": [
+      "Spanish",
+      "Brazilian",
+      "Italian"
+    ],
+    "tags": [
+      "geography",
+      "languages"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-7b4b68eab020",
+    "lang": "en",
+    "prompt": "How did Emperor Frederick I Barbarossa die during the Third Crusade?",
+    "answer": "He drowned in a river",
+    "distractors": [
+      "He fell in battle",
+      "He died of the plague",
+      "He was poisoned"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-science-9b93d35fd8c0",
+    "lang": "en",
+    "prompt": "Bronze is mainly composed of which two metals?",
+    "answer": "Copper and tin",
+    "distractors": [
+      "Copper and iron",
+      "Copper and zinc",
+      "Iron and nickel"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-history-fdb25c2f6621",
+    "lang": "en",
+    "prompt": "On which day did the towers of the World Trade Center collapse?",
+    "answer": "September 11, 2001",
+    "distractors": [
+      "September 11, 2000",
+      "November 9, 2001",
+      "September 1, 2001"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-d47e194b95bd",
+    "lang": "en",
+    "prompt": "What is the capital of the U.S. state of Hawaii?",
+    "answer": "Honolulu",
+    "distractors": [
+      "Hilo",
+      "Kailua",
+      "Kona"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "usa",
+      "north-america"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-de592a25f980",
+    "lang": "en",
+    "prompt": "Which bone is the only one in the human body not directly connected (articulated) to another bone?",
+    "answer": "Hyoid bone",
+    "distractors": [
+      "Coccyx",
+      "Kneecap",
+      "Stapes"
+    ],
+    "tags": [
+      "science",
+      "anatomy"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-history-2ac22b992f34",
+    "lang": "en",
+    "prompt": "Which country does the kimono come from?",
+    "answer": "Japan",
+    "distractors": [
+      "China",
+      "Korea",
+      "Vietnam"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-science-e3d0e106c644",
+    "lang": "en",
+    "prompt": "About 99 percent of the calcium in the human body is stored in which part of the body?",
+    "answer": "The bones",
+    "distractors": [
+      "The blood",
+      "The muscles",
+      "The kidneys"
+    ],
+    "tags": [
+      "science",
+      "human body",
+      "biology",
+      "minerals"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-history-3debd57ae562",
+    "lang": "en",
+    "prompt": "In which year did Ukraine declare its withdrawal from the Commonwealth of Independent States (CIS) following the annexation of Crimea?",
+    "answer": "2018",
+    "distractors": [
+      "2014",
+      "2010",
+      "1996"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 5,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-d737b7729094",
+    "lang": "en",
+    "prompt": "On which continent is Lithuania?",
+    "answer": "Europe",
+    "distractors": [
+      "Africa",
+      "Asia",
+      "North America"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "europe"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-aeedfb876ced",
+    "lang": "en",
+    "prompt": "Which country does Easter Island belong to?",
+    "answer": "Chile",
+    "distractors": [
+      "Peru",
+      "Argentina",
+      "New Zealand"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-2846c8c568ba",
+    "lang": "en",
+    "prompt": "William McKinley, the 25th U.S. president, appeared on which denomination of U.S. paper currency that was discontinued in 1969?",
+    "answer": "$500 bill",
+    "distractors": [
+      "$1,000 bill",
+      "$10,000 bill",
+      "$100,000 bill"
+    ],
+    "tags": [
+      "history",
+      "currency"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-history-52d6f0591622",
+    "lang": "en",
+    "prompt": "How many legionaries did a Roman centurion command, by name?",
+    "answer": "100",
+    "distractors": [
+      "80",
+      "300",
+      "1000"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-history-fa1805939f65",
+    "lang": "en",
+    "prompt": "On which cruel ruler of the principality of Wallachia is the literary vampire Dracula based?",
+    "answer": "Vlad III (Vlad the Impaler)",
+    "distractors": [
+      "Stephen the Great",
+      "Michael the Brave",
+      "Elizabeth Báthory"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-science-9da553f2cc46",
+    "lang": "en",
+    "prompt": "How do you calculate the density of an object?",
+    "answer": "Mass divided by volume",
+    "distractors": [
+      "Volume divided by mass",
+      "Mass times volume",
+      "Weight times height"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-history-4edc6714ada8",
+    "lang": "en",
+    "prompt": "Which American president is depicted on the one-dollar bill?",
+    "answer": "George Washington",
+    "distractors": [
+      "Abraham Lincoln",
+      "Benjamin Franklin",
+      "Thomas Jefferson"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-history-b5f9438a2fa7",
+    "lang": "en",
+    "prompt": "On what day (day and month) did construction of the Berlin Wall begin in 1961?",
+    "answer": "August 13",
+    "distractors": [
+      "November 9",
+      "June 17",
+      "May 1"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-history-e5be9c466864",
+    "lang": "en",
+    "prompt": "Which trademark did Lacoste have to protect in 1990 in a dispute with a sportswear manufacturer from Hong Kong?",
+    "answer": "The crocodile logo",
+    "distractors": [
+      "The brand name",
+      "The piqué fabric",
+      "The color combination"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-41b81bce3067",
+    "lang": "en",
+    "prompt": "Which European language is the official language of Senegal?",
+    "answer": "French",
+    "distractors": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-9ca50ca28696",
+    "lang": "en",
+    "prompt": "Which monument did France give to the USA?",
+    "answer": "The Statue of Liberty",
+    "distractors": [
+      "The Lincoln Memorial",
+      "The Washington Monument obelisk",
+      "Mount Rushmore"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-1b909d803bd5",
+    "lang": "en",
+    "prompt": "What is the capital of South Korea?",
+    "answer": "Seoul",
+    "distractors": [
+      "Copenhagen",
+      "Helsinki",
+      "Warsaw"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "asia"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-f7952d319f8c",
+    "lang": "en",
+    "prompt": "What are the human third molars commonly called?",
+    "answer": "Wisdom teeth",
+    "distractors": [
+      "Canines",
+      "Incisors",
+      "Milk teeth"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-science-7725c805a555",
+    "lang": "en",
+    "prompt": "Which chemical element has the symbol \"Li\"?",
+    "answer": "Lithium",
+    "distractors": [
+      "Boron",
+      "Carbon",
+      "Nitrogen"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-db82fdd4e668",
+    "lang": "en",
+    "prompt": "How many stars does the flag of the European Union show?",
+    "answer": "12",
+    "distractors": [
+      "14",
+      "15",
+      "27"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-95ce621ea793",
+    "lang": "en",
+    "prompt": "On which continent is France?",
+    "answer": "Europe",
+    "distractors": [
+      "Africa",
+      "Asia",
+      "North America"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "europe"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-6f55c2f59b90",
+    "lang": "en",
+    "prompt": "Which U.S. government body is often referred to simply as 'the Pentagon'?",
+    "answer": "The U.S. Department of Defense",
+    "distractors": [
+      "The CIA, the U.S. intelligence agency",
+      "The U.S. Department of State",
+      "The White House"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-science-1f057ed9dd70",
+    "lang": "en",
+    "prompt": "Which two chemical elements make up water?",
+    "answer": "Oxygen and hydrogen",
+    "distractors": [
+      "Nitrogen and hydrogen",
+      "Oxygen and carbon",
+      "Hydrogen and helium"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-history-02f85027348f",
+    "lang": "en",
+    "prompt": "The 13 stripes on the flag of the United States represent what?",
+    "answer": "The 13 original colonies",
+    "distractors": [
+      "The first 13 U.S. presidents",
+      "The 13 signers of the Declaration of Independence",
+      "The 13 amendments in the Bill of Rights"
+    ],
+    "tags": [
+      "history",
+      "US flag",
+      "symbolism",
+      "American history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-science-5e76e74b39dc",
+    "lang": "en",
+    "prompt": "What is someone with claustrophobia afraid of?",
+    "answer": "Narrow, enclosed spaces",
+    "distractors": [
+      "Large open squares",
+      "Heights",
+      "Crowds"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-6dff874ea685",
+    "lang": "en",
+    "prompt": "In which country would you find the Colosseum?",
+    "answer": "Italy",
+    "distractors": [
+      "United States",
+      "United Kingdom",
+      "Germany"
+    ],
+    "tags": [
+      "geography",
+      "landmarks",
+      "europe"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-47644a73b909",
+    "lang": "en",
+    "prompt": "On which continent is Australia?",
+    "answer": "Oceania",
+    "distractors": [
+      "Europe",
+      "Africa",
+      "Asia"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "oceania"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-385d48e7a68f",
+    "lang": "en",
+    "prompt": "Which country uses the international vehicle registration code \"CY\"?",
+    "answer": "Cyprus",
+    "distractors": [
+      "Canary Islands",
+      "Sri Lanka",
+      "Cuba"
+    ],
+    "tags": [
+      "geography",
+      "country-codes"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-af5b4e11417f",
+    "lang": "en",
+    "prompt": "Which monosaccharide (simple sugar) gives most fruits their natural sweetness and is processed differently by the liver than glucose?",
+    "answer": "Fructose",
+    "distractors": [
+      "Sucrose",
+      "Lactose",
+      "Maltose"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "nutrition",
+      "sugar"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-history-6b086a863de7",
+    "lang": "en",
+    "prompt": "In which century was the light bulb invented?",
+    "answer": "In the 19th century",
+    "distractors": [
+      "In the 18th century",
+      "In the 20th century",
+      "In the 17th century"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-36331ce8403c",
+    "lang": "en",
+    "prompt": "On which continent is Saudi Arabia?",
+    "answer": "Asia",
+    "distractors": [
+      "Europe",
+      "Africa",
+      "North America"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "asia"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-ea068d0528e1",
+    "lang": "en",
+    "prompt": "What is the capital of China?",
+    "answer": "Beijing",
+    "distractors": [
+      "Athens",
+      "Stockholm",
+      "Oslo"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "asia"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-18520f2bb8c6",
+    "lang": "en",
+    "prompt": "Who is regarded as the inventor of the modern automobile?",
+    "answer": "Carl Benz",
+    "distractors": [
+      "Gottlieb Daimler",
+      "Henry Ford",
+      "Rudolf Diesel"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-science-7b2f4596bc81",
+    "lang": "en",
+    "prompt": "What is the chemical symbol for helium?",
+    "answer": "He",
+    "distractors": [
+      "Li",
+      "B",
+      "C"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-history-8d307bf9dac4",
+    "lang": "en",
+    "prompt": "On which island do the famous Moai statues stand?",
+    "answer": "Easter Island",
+    "distractors": [
+      "Hawaii",
+      "Tahiti",
+      "Galápagos Islands"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-science-9366bb1fa885",
+    "lang": "en",
+    "prompt": "How many milk teeth does a child normally have?",
+    "answer": "20",
+    "distractors": [
+      "24",
+      "28",
+      "32"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-science-16faa61fbb5f",
+    "lang": "en",
+    "prompt": "Which part of the body is referred to in medicine as the thorax?",
+    "answer": "The chest",
+    "distractors": [
+      "The abdomen",
+      "The pelvis",
+      "The skull"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-history-205349d07421",
+    "lang": "en",
+    "prompt": "Which party did Konrad Adenauer belong to?",
+    "answer": "CDU",
+    "distractors": [
+      "SPD",
+      "FDP",
+      "KPD"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-abc49b8b4b05",
+    "lang": "en",
+    "prompt": "In which country is the city of Stockholm located?",
+    "answer": "Sweden",
+    "distractors": [
+      "Norway",
+      "Finland",
+      "Denmark"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-544bf4ed8333",
+    "lang": "en",
+    "prompt": "In which language was the New Testament originally written?",
+    "answer": "Greek",
+    "distractors": [
+      "Latin",
+      "Hebrew",
+      "Aramaic"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-science-99bd83f559a5",
+    "lang": "en",
+    "prompt": "What does the abbreviation CFC stand for?",
+    "answer": "Chlorofluorocarbons",
+    "distractors": [
+      "Chlorinated fluoropotassium compounds",
+      "Fluorochloropotassium water",
+      "Solid chlorocarbon hydrides"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-c233c7ef21d5",
+    "lang": "en",
+    "prompt": "What is the main official language of Austria?",
+    "answer": "German",
+    "distractors": [
+      "Austrian",
+      "Swiss",
+      "Hungarian"
+    ],
+    "tags": [
+      "geography",
+      "languages"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-369e02097c08",
+    "lang": "en",
+    "prompt": "How does the island nation of Tuvalu earn a large part of its income by renting out something connected to its country code?",
+    "answer": "Its top-level domain .tv",
+    "distractors": [
+      "Coconuts",
+      "Fishing rights",
+      "Postage stamps"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 5,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-f5791ca136e8",
+    "lang": "en",
+    "prompt": "Which chemical element has the symbol \"Na\"?",
+    "answer": "Sodium",
+    "distractors": [
+      "Magnesium",
+      "Aluminium",
+      "Silicon"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-science-b55b143c69c0",
+    "lang": "en",
+    "prompt": "Where is the strongest muscle in the human body located?",
+    "answer": "In the jaw (the masseter)",
+    "distractors": [
+      "In the thigh",
+      "In the calf",
+      "In the buttocks"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-science-bde406eeb4e8",
+    "lang": "en",
+    "prompt": "What is the name of the liquid, cell-free portion of blood?",
+    "answer": "Blood plasma",
+    "distractors": [
+      "Blood serum",
+      "Lymph",
+      "Hemoglobin"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-130492475528",
+    "lang": "en",
+    "prompt": "On which continent is Cuba?",
+    "answer": "North America",
+    "distractors": [
+      "Asia",
+      "South America",
+      "Oceania"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "north-america"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-ef511ca7deb6",
+    "lang": "en",
+    "prompt": "Which organ in the human body is mainly responsible for blood purification and detoxification?",
+    "answer": "The liver",
+    "distractors": [
+      "The kidneys",
+      "The spleen",
+      "The lungs"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-f8b5c6bdc223",
+    "lang": "en",
+    "prompt": "On which continent is Libya?",
+    "answer": "Africa",
+    "distractors": [
+      "South America",
+      "Oceania",
+      "Europe"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "africa"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-759afc9ba86c",
+    "lang": "en",
+    "prompt": "Who are the two authors of The Communist Manifesto?",
+    "answer": "Karl Marx and Friedrich Engels",
+    "distractors": [
+      "Karl Marx and Vladimir Lenin",
+      "Friedrich Engels and Ferdinand Lassalle",
+      "Karl Marx and August Bebel"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-35e767a0ee8f",
+    "lang": "en",
+    "prompt": "Which German state has the highest density of breweries?",
+    "answer": "Bavaria",
+    "distractors": [
+      "North Rhine-Westphalia",
+      "Lower Saxony",
+      "Baden-Wurttemberg"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-dc38fdb1ce11",
+    "lang": "en",
+    "prompt": "What is the capital of Morocco?",
+    "answer": "Rabat",
+    "distractors": [
+      "Havana",
+      "Brasília",
+      "Buenos Aires"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "africa"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-64bb9ab8927a",
+    "lang": "en",
+    "prompt": "What do you call a men's hat with a tall, straight crown?",
+    "answer": "Top hat",
+    "distractors": [
+      "Bowler hat",
+      "Sombrero",
+      "Fedora"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-history-8a8cc4a9648c",
+    "lang": "en",
+    "prompt": "Which officials did Frederick the Great employ in 1780 to track down forbidden contraband?",
+    "answer": "The coffee sniffers",
+    "distractors": [
+      "The tea sniffers",
+      "The cocoa smellers",
+      "The beer detectors"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-history-0dc593a2d69b",
+    "lang": "en",
+    "prompt": "From which town does the name of the strong beer 'Bock' derive?",
+    "answer": "Einbeck",
+    "distractors": [
+      "Bamberg",
+      "Bocholt",
+      "Bockhorn"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-d6b04f9d9b60",
+    "lang": "en",
+    "prompt": "Which ocean lies between the USA and Japan?",
+    "answer": "The Pacific",
+    "distractors": [
+      "The Atlantic",
+      "The Indian Ocean",
+      "The Arctic Ocean"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-97fba2dd1df2",
+    "lang": "en",
+    "prompt": "What is the name of Pippi Longstocking's monkey?",
+    "answer": "Mr. Nilsson",
+    "distractors": [
+      "Mr. Petersen",
+      "Mr. Andersson",
+      "Mr. Karlsson"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-geography-eda48a2a394c",
+    "lang": "en",
+    "prompt": "Where is the Cape of Good Hope located?",
+    "answer": "In South Africa",
+    "distractors": [
+      "In Argentina",
+      "In Australia",
+      "In Morocco"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-46055514f27e",
+    "lang": "en",
+    "prompt": "Who said the quote \"Art washes away from the soul the dust of everyday life\"?",
+    "answer": "Pablo Picasso",
+    "distractors": [
+      "Salvador Dalí",
+      "Vincent van Gogh",
+      "Claude Monet"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 4,
+    "category": "arts"
+  },
+  {
+    "id": "en-arts-836bcf3b9295",
+    "lang": "en",
+    "prompt": "What does Little Red Riding Hood carry in her basket for her grandmother?",
+    "answer": "Cake and wine",
+    "distractors": [
+      "Bread and cheese",
+      "Fruit and honey",
+      "Soup and sausage"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-fe5858b3c9b1",
+    "lang": "en",
+    "prompt": "How long did the Anglo-Zanzibar War, considered the shortest war in history, last?",
+    "answer": "About 38 to 40 minutes",
+    "distractors": [
+      "About one day",
+      "About three hours",
+      "About one week"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-d14f7ffd58b6",
+    "lang": "en",
+    "prompt": "On which continent is Nigeria?",
+    "answer": "Africa",
+    "distractors": [
+      "North America",
+      "South America",
+      "Oceania"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "africa"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-45d9f6170799",
+    "lang": "en",
+    "prompt": "What is the capital of the German state of Hesse?",
+    "answer": "Wiesbaden",
+    "distractors": [
+      "Frankfurt am Main",
+      "Kassel",
+      "Darmstadt"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "germany",
+      "europe"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-bab398f1a3bb",
+    "lang": "en",
+    "prompt": "In Ernest Hemingway's novel 'The Sun Also Rises,' which character works as a journalist in Paris?",
+    "answer": "Jake Barnes",
+    "distractors": [
+      "Robert Cohn",
+      "Bill Gorton",
+      "Pedro Romero"
+    ],
+    "tags": [
+      "arts",
+      "literature",
+      "Hemingway",
+      "novels"
+    ],
+    "difficulty": 4,
+    "category": "arts"
+  },
+  {
+    "id": "en-science-fccaeea37a3d",
+    "lang": "en",
+    "prompt": "A jewelry item stamped with '925' is made primarily from which material?",
+    "answer": "Sterling silver",
+    "distractors": [
+      "Platinum",
+      "White gold",
+      "Stainless steel"
+    ],
+    "tags": [
+      "science",
+      "jewelry",
+      "hallmark",
+      "metallurgy"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-science-1493fec73b74",
+    "lang": "en",
+    "prompt": "Name the five human senses.",
+    "answer": "Sight, hearing, smell, taste, and touch",
+    "distractors": [
+      "Sight, hearing, speech, taste, and touch",
+      "Sight, hearing, smell, thought, and touch",
+      "Sight, feeling, smell, walking, and taste"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-science-001edf56dcf4",
+    "lang": "en",
+    "prompt": "Cataract surgery treats clouding of the lens in which part of the body?",
+    "answer": "The eye",
+    "distractors": [
+      "The ear",
+      "The kidney",
+      "The knee joint"
+    ],
+    "tags": [
+      "science",
+      "medicine",
+      "anatomy",
+      "surgery"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-science-75e23d315005",
+    "lang": "en",
+    "prompt": "What is the liquid part of blood called?",
+    "answer": "Plasma",
+    "distractors": [
+      "Serum",
+      "Haemoglobin",
+      "Lymph"
+    ],
+    "tags": [
+      "science",
+      "anatomy"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-d27b66816e95",
+    "lang": "en",
+    "prompt": "How many member states does the EU have?",
+    "answer": "27",
+    "distractors": [
+      "25",
+      "28",
+      "30"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-fe539eb5c842",
+    "lang": "en",
+    "prompt": "What is the capital of Libya?",
+    "answer": "Tripoli",
+    "distractors": [
+      "Ulaanbaatar",
+      "Quito",
+      "Montevideo"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "africa"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-4c9a1565783c",
+    "lang": "en",
+    "prompt": "What is the capital of Romania?",
+    "answer": "Bucharest",
+    "distractors": [
+      "Zagreb",
+      "Belgrade",
+      "Kyiv"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "europe"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-2f756cae13aa",
+    "lang": "en",
+    "prompt": "In which country would you find the Leaning Tower of Pisa?",
+    "answer": "Italy",
+    "distractors": [
+      "Egypt",
+      "Jordan",
+      "Cambodia"
+    ],
+    "tags": [
+      "geography",
+      "landmarks",
+      "europe"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-30b75b8ccaa4",
+    "lang": "en",
+    "prompt": "What does a barometer measure?",
+    "answer": "Air pressure",
+    "distractors": [
+      "Humidity",
+      "Temperature",
+      "Wind speed"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-history-9b64376756fa",
+    "lang": "en",
+    "prompt": "What does the title 'Christ' mean?",
+    "answer": "The Anointed One",
+    "distractors": [
+      "The Chosen One",
+      "The Son of God",
+      "The Redeemer"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-science-f7da74b7cae8",
+    "lang": "en",
+    "prompt": "Which three minerals together form the main components of granite?",
+    "answer": "Feldspar, quartz and mica",
+    "distractors": [
+      "Calcite, quartz and mica",
+      "Feldspar, olivine and mica",
+      "Feldspar, quartz and hornblende"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-history-6fb5f2213a51",
+    "lang": "en",
+    "prompt": "In which year was statutory health insurance introduced in Germany?",
+    "answer": "1883",
+    "distractors": [
+      "1871",
+      "1900",
+      "1930"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-2cfc671ca101",
+    "lang": "en",
+    "prompt": "Which two countries does the Channel Tunnel connect?",
+    "answer": "France and England",
+    "distractors": [
+      "Germany and France",
+      "England and Ireland",
+      "Spain and Morocco"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-ee91d6867c98",
+    "lang": "en",
+    "prompt": "Which city is considered a holy city in both Christianity and Judaism?",
+    "answer": "Jerusalem",
+    "distractors": [
+      "Bethlehem",
+      "Mecca",
+      "Nazareth"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-2ffd2f7b54c8",
+    "lang": "en",
+    "prompt": "What is the capital of North Macedonia?",
+    "answer": "Skopje",
+    "distractors": [
+      "Guatemala City",
+      "Tbilisi",
+      "Paris"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "europe"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-668163661f38",
+    "lang": "en",
+    "prompt": "Which Christian event does Easter commemorate?",
+    "answer": "The resurrection of Jesus",
+    "distractors": [
+      "The birth of Jesus",
+      "The crucifixion of Jesus",
+      "The baptism of Jesus"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 1,
+    "category": "history"
+  },
+  {
+    "id": "en-science-14f56da14934",
+    "lang": "en",
+    "prompt": "Which group of animals are dinosaurs most closely related to?",
+    "answer": "Birds",
+    "distractors": [
+      "Reptiles",
+      "Crocodiles",
+      "Mammals"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-science-c333884ef788",
+    "lang": "en",
+    "prompt": "What is the twilight phase called in which the Sun is at most six degrees below the horizon?",
+    "answer": "Civil twilight",
+    "distractors": [
+      "Nautical twilight",
+      "Astronomical twilight",
+      "The blue hour"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-science-b4d8b3a61e29",
+    "lang": "en",
+    "prompt": "Which chemical element has the atomic number 79?",
+    "answer": "Gold",
+    "distractors": [
+      "Silver",
+      "Platinum",
+      "Mercury"
+    ],
+    "tags": [
+      "science",
+      "chemistry"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-history-6513ce66a9e7",
+    "lang": "en",
+    "prompt": "Which euro banknote was no longer issued by the German Bundesbank as of April 26, 2019?",
+    "answer": "The 500-euro note",
+    "distractors": [
+      "The 200-euro note",
+      "The 100-euro note",
+      "The 1000-euro note"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-science-dcf5544a26d8",
+    "lang": "en",
+    "prompt": "What is the name for a shimmering optical illusion in the desert?",
+    "answer": "A mirage (Fata Morgana)",
+    "distractors": [
+      "An oasis",
+      "An aurora",
+      "A halo"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-arts-ff5a5d1acc71",
+    "lang": "en",
+    "prompt": "Terracotta, famously used for China's 'Terracotta Army' statues, is classified as what type of material?",
+    "answer": "ceramic",
+    "distractors": [
+      "metal alloy",
+      "volcanic rock",
+      "polymer resin"
+    ],
+    "tags": [
+      "arts",
+      "terracotta",
+      "ceramics",
+      "pottery"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-geography-60ac977d4009",
+    "lang": "en",
+    "prompt": "What is the capital of the German state of Schleswig-Holstein?",
+    "answer": "Kiel",
+    "distractors": [
+      "Lübeck",
+      "Flensburg",
+      "Neumünster"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "germany",
+      "europe"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-4aa555368008",
+    "lang": "en",
+    "prompt": "What is the capital of Austria?",
+    "answer": "Vienna",
+    "distractors": [
+      "Athens",
+      "Stockholm",
+      "Oslo"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "europe"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-aa52fe80f4ac",
+    "lang": "en",
+    "prompt": "In which country would you find Christ the Redeemer?",
+    "answer": "Brazil",
+    "distractors": [
+      "Australia",
+      "Peru",
+      "Greece"
+    ],
+    "tags": [
+      "geography",
+      "landmarks",
+      "south-america"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-e5ef57dd88b4",
+    "lang": "en",
+    "prompt": "Which island is nicknamed the \"Emerald Isle\" because of its green landscape?",
+    "answer": "Ireland",
+    "distractors": [
+      "Cyprus",
+      "Sicily",
+      "Tenerife"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-6b3e2915168e",
+    "lang": "en",
+    "prompt": "In which Brothers Grimm fairy tale does the talking horse Falada appear?",
+    "answer": "The Goose Girl",
+    "distractors": [
+      "Rapunzel",
+      "Mother Hulda",
+      "Snow White"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 4,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-25d91504111b",
+    "lang": "en",
+    "prompt": "In which city was Jesus crucified?",
+    "answer": "Jerusalem",
+    "distractors": [
+      "Bethlehem",
+      "Nazareth",
+      "Rome"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-history-3d3ddf123f13",
+    "lang": "en",
+    "prompt": "Richard Nixon became the only U.S. president to resign from office, stepping down in 1974 over his involvement in which political scandal?",
+    "answer": "The Watergate scandal",
+    "distractors": [
+      "The Iran-Contra affair",
+      "The Teapot Dome scandal",
+      "The Whitewater controversy"
+    ],
+    "tags": [
+      "history",
+      "usa"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-science-1a8d32b7055b",
+    "lang": "en",
+    "prompt": "What is the order of the colors in the resistor color code (digits 0 to 9) in electronics?",
+    "answer": "Black, Brown, Red, Orange, Yellow, Green, Blue, Violet, Grey, White",
+    "distractors": [
+      "Black, Red, Brown, Yellow, Orange, Green, Blue, Grey, Violet, White",
+      "White, Grey, Violet, Blue, Green, Yellow, Orange, Red, Brown, Black",
+      "Brown, Black, Red, Yellow, Orange, Blue, Green, Violet, Grey, White"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-962d4ca19a00",
+    "lang": "en",
+    "prompt": "In which city does the Leaning Tower of Pisa stand?",
+    "answer": "Pisa",
+    "distractors": [
+      "Florence",
+      "Rome",
+      "Bologna"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-39c54bb042b7",
+    "lang": "en",
+    "prompt": "Which historical era is also known as the 'age of knights'?",
+    "answer": "The Middle Ages",
+    "distractors": [
+      "The Baroque",
+      "Romanticism",
+      "Antiquity"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-3daafa3c8918",
+    "lang": "en",
+    "prompt": "What season is it in Germany when it is winter in Australia?",
+    "answer": "Summer",
+    "distractors": [
+      "Winter",
+      "Spring",
+      "Autumn"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-0dcdc10a1dfc",
+    "lang": "en",
+    "prompt": "Which two acids make up aqua regia?",
+    "answer": "Hydrochloric acid and nitric acid",
+    "distractors": [
+      "Sulfuric acid and hydrochloric acid",
+      "Nitric acid and sulfuric acid",
+      "Acetic acid and hydrochloric acid"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-history-67fef9c0b1ff",
+    "lang": "en",
+    "prompt": "Which Renaissance polymath drew up early designs for a humanoid robot (a mechanical knight) around 1495?",
+    "answer": "Leonardo da Vinci",
+    "distractors": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Michelangelo"
+    ],
+    "tags": [
+      "history",
+      "inventors"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-history-7a3cde97d15b",
+    "lang": "en",
+    "prompt": "What event took place on October 24, 1929, known as Black Thursday?",
+    "answer": "The Wall Street stock market crash",
+    "distractors": [
+      "The outbreak of World War I",
+      "The founding of the UN",
+      "The start of the French Revolution"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-nature-7ccba12d460b",
+    "lang": "en",
+    "prompt": "To which class of animals does the salamander belong?",
+    "answer": "Amphibian",
+    "distractors": [
+      "Fish",
+      "Insect",
+      "Arachnid"
+    ],
+    "tags": [
+      "nature",
+      "animals",
+      "classification"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-arts-bb4e6beb95fe",
+    "lang": "en",
+    "prompt": "In the novel 'The Hitchhiker's Guide to the Galaxy', the number 42 is the answer to what?",
+    "answer": "The question of life, the universe and everything",
+    "distractors": [
+      "The number of known galaxies",
+      "The number of stars in the universe",
+      "The question of the end of the world"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-geography-e5342bf63851",
+    "lang": "en",
+    "prompt": "What are the German Hanseatic cities on the Baltic Sea coast, in order from west to east: Bremen, Hamburg, Lübeck, ...?",
+    "answer": "Bremen, Hamburg, Lübeck, Wismar, Rostock, Stralsund, Greifswald",
+    "distractors": [
+      "Bremen, Hamburg, Lübeck, Rostock, Wismar, Greifswald, Stralsund",
+      "Hamburg, Bremen, Wismar, Lübeck, Stralsund, Rostock, Greifswald",
+      "Bremen, Lübeck, Hamburg, Wismar, Rostock, Greifswald, Stralsund"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-bbc5c8c77671",
+    "lang": "en",
+    "prompt": "What field of medicine does gynecology deal with?",
+    "answer": "Women's health",
+    "distractors": [
+      "Pediatrics",
+      "Ophthalmology",
+      "Dermatology"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-arts-b72bbe39476a",
+    "lang": "en",
+    "prompt": "Which address is associated with Sherlock Holmes?",
+    "answer": "221B Baker Street",
+    "distractors": [
+      "10 Downing Street",
+      "40 Baker Street",
+      "4 Wisteria Lane"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-geography-4e47f17cd8e2",
+    "lang": "en",
+    "prompt": "Across how many time zones does Russia extend?",
+    "answer": "11",
+    "distractors": [
+      "7",
+      "9",
+      "13"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-nature-b706fd909ebb",
+    "lang": "en",
+    "prompt": "What are carp specially bred for ponds because of their coloration called in Japan?",
+    "answer": "Koi",
+    "distractors": [
+      "Goi",
+      "Tai",
+      "Fugu"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-history-16f09d15210e",
+    "lang": "en",
+    "prompt": "What is the name of the national hero of Venezuela, Bolivia and other South American countries?",
+    "answer": "Simón Bolívar",
+    "distractors": [
+      "José de San Martín",
+      "Che Guevara",
+      "Hugo Chávez"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-science-9533576cf1f5",
+    "lang": "en",
+    "prompt": "If all four wisdom teeth are excluded, how many permanent teeth does a typical adult human have?",
+    "answer": "28",
+    "distractors": [
+      "26",
+      "30",
+      "32"
+    ],
+    "tags": [
+      "science",
+      "human anatomy",
+      "teeth",
+      "dentistry"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-arts-dbf65c9697c9",
+    "lang": "en",
+    "prompt": "Which kind of bird does the king in 'Puss in Boots' particularly like to eat, which is why the cat brings them to him as a gift?",
+    "answer": "Partridges",
+    "distractors": [
+      "Pheasants",
+      "Pigeons",
+      "Quail"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 4,
+    "category": "arts"
+  },
+  {
+    "id": "en-geography-1577b972304b",
+    "lang": "en",
+    "prompt": "What is the official currency of Czechia?",
+    "answer": "Czech Koruna",
+    "distractors": [
+      "Pound Sterling",
+      "Swiss Franc",
+      "Swedish Krona"
+    ],
+    "tags": [
+      "geography",
+      "currencies",
+      "europe"
+    ],
+    "difficulty": 4,
+    "asOf": "2026-06-24",
+    "source": "Official currency in circulation.",
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-4b2eaf959a96",
+    "lang": "en",
+    "prompt": "What is the capital of Slovakia?",
+    "answer": "Bratislava",
+    "distractors": [
+      "Ljubljana",
+      "Sofia",
+      "Tallinn"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "europe"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-eba86ca91190",
+    "lang": "en",
+    "prompt": "Which neurological disease is the international awareness day 'Purple Day' meant to raise awareness of?",
+    "answer": "Epilepsy",
+    "distractors": [
+      "Parkinson's",
+      "Alzheimer's",
+      "Multiple sclerosis"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-a93e18995505",
+    "lang": "en",
+    "prompt": "In which sea is the island of Mallorca located?",
+    "answer": "In the Mediterranean Sea",
+    "distractors": [
+      "In the Atlantic",
+      "In the North Sea",
+      "In the Baltic Sea"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-c799430fae32",
+    "lang": "en",
+    "prompt": "Which country has a flag with a white stripe on top and a red stripe below?",
+    "answer": "Poland",
+    "distractors": [
+      "Indonesia",
+      "Monaco",
+      "Singapore"
+    ],
+    "tags": [
+      "geography",
+      "flags"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-nature-5786b8e87c20",
+    "lang": "en",
+    "prompt": "What is the fruit of the dog rose called, which is found in many fruit teas?",
+    "answer": "Rosehip",
+    "distractors": [
+      "Hibiscus",
+      "Elderberry",
+      "Sloe"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 2,
+    "category": "nature"
+  },
+  {
+    "id": "en-history-21f71d318dc4",
+    "lang": "en",
+    "prompt": "The U.S. Constitution divides the federal government into three separate branches. Which branch holds the power to write and pass federal legislation?",
+    "answer": "The Legislative branch",
+    "distractors": [
+      "The Executive branch",
+      "The Judicial branch",
+      "The Administrative branch"
+    ],
+    "tags": [
+      "history",
+      "us-government",
+      "civics",
+      "constitution"
+    ],
+    "difficulty": 1,
+    "category": "history"
+  },
+  {
+    "id": "en-nature-b2ab91fe7d9c",
+    "lang": "en",
+    "prompt": "What is the term for the trait, common in huskies, of having two differently colored eyes?",
+    "answer": "Heterochromia",
+    "distractors": [
+      "Albinism",
+      "Melanism",
+      "Astigmatism"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-nature-92a6e3281a3b",
+    "lang": "en",
+    "prompt": "To which class of animals does the snake belong?",
+    "answer": "Reptile",
+    "distractors": [
+      "Arachnid",
+      "Mammal",
+      "Bird"
+    ],
+    "tags": [
+      "nature",
+      "animals",
+      "classification"
+    ],
+    "difficulty": 1,
+    "category": "nature"
+  },
+  {
+    "id": "en-nature-7ca97e4e8d49",
+    "lang": "en",
+    "prompt": "What is the name of the sweet liquid that bees collect and from which honey is made?",
+    "answer": "Nectar",
+    "distractors": [
+      "Pollen",
+      "Syrup",
+      "Resin"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 2,
+    "category": "nature"
+  },
+  {
+    "id": "en-geography-cfacbd91b895",
+    "lang": "en",
+    "prompt": "What is the capital of Belarus?",
+    "answer": "Minsk",
+    "distractors": [
+      "San José",
+      "Kingston",
+      "Guatemala City"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "europe"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-555a88c659f8",
+    "lang": "en",
+    "prompt": "What was the criminal Pablo Escobar known for?",
+    "answer": "Drug trafficking (cocaine trafficking)",
+    "distractors": [
+      "Bank robbery",
+      "Arms smuggling",
+      "Art forgery"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-nature-6f5a4d27242c",
+    "lang": "en",
+    "prompt": "What are white horses called?",
+    "answer": "Greys",
+    "distractors": [
+      "Blacks",
+      "Sorrels",
+      "Bays"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 2,
+    "category": "nature"
+  },
+  {
+    "id": "en-arts-fe0843cf359e",
+    "lang": "en",
+    "prompt": "The epic poems the “Iliad” and the “Odyssey” are attributed to which ancient poet?",
+    "answer": "Homer",
+    "distractors": [
+      "Virgil",
+      "Sophocles",
+      "Ovid"
+    ],
+    "tags": [
+      "arts",
+      "literature",
+      "ancient"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-arts-d71adcf1806a",
+    "lang": "en",
+    "prompt": "Name two of the four Town Musicians of Bremen.",
+    "answer": "Donkey and dog (also cat, rooster)",
+    "distractors": [
+      "Horse and sheep",
+      "Goat and goose",
+      "Pig and cow"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-2fbfd5014c7c",
+    "lang": "en",
+    "prompt": "Which Prussian ruler bore the epithet \"the Great\"?",
+    "answer": "Frederick II of Prussia",
+    "distractors": [
+      "Frederick William I",
+      "Charlemagne",
+      "Wilhelm II"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-science-7511b60ffa5e",
+    "lang": "en",
+    "prompt": "To which part of the cat are people with a cat allergy mainly allergic?",
+    "answer": "The saliva",
+    "distractors": [
+      "The fur",
+      "The claws",
+      "The tears"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-history-c07ea4203740",
+    "lang": "en",
+    "prompt": "What is the official title of the head of government of Germany?",
+    "answer": "Federal Chancellor",
+    "distractors": [
+      "Federal President",
+      "Prime Minister",
+      "Minister-President"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-nature-a6c2a92b3b4d",
+    "lang": "en",
+    "prompt": "Badgers and raccoons are not considered true hibernators, but rather animals with which form of wintering?",
+    "answer": "Winter dormancy (winter rest)",
+    "distractors": [
+      "Winter rigidity",
+      "Hibernation",
+      "Cold torpor"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 4,
+    "category": "nature"
+  },
+  {
+    "id": "en-science-8beb78c66668",
+    "lang": "en",
+    "prompt": "Which chemical element has the symbol \"C\"?",
+    "answer": "Carbon",
+    "distractors": [
+      "Nitrogen",
+      "Oxygen",
+      "Fluorine"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-3d2d28d6ca7a",
+    "lang": "en",
+    "prompt": "What is the capital of Peru?",
+    "answer": "Lima",
+    "distractors": [
+      "Astana",
+      "Washington, D.C.",
+      "Ottawa"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "south-america"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-370752c33f48",
+    "lang": "en",
+    "prompt": "In Lewis Carroll's nonsense poem 'Jabberwocky', what is the name given to the sword the hero wields to slay the monster?",
+    "answer": "Vorpal sword",
+    "distractors": [
+      "Moonlit saber",
+      "Glimmering rapier",
+      "Ebonwood blade"
+    ],
+    "tags": [
+      "arts",
+      "literature",
+      "poetry",
+      "lewis-carroll"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-ae6efd3f0692",
+    "lang": "en",
+    "prompt": "Approximately how many people died in Japan's war against Korea and China between 1592 and 1598?",
+    "answer": "About two million",
+    "distractors": [
+      "About 200,000",
+      "About 20 million",
+      "About 50,000"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-7f9bdedbf5e8",
+    "lang": "en",
+    "prompt": "How many spikes does the crown of the Statue of Liberty in New York have?",
+    "answer": "Seven",
+    "distractors": [
+      "Five",
+      "Nine",
+      "Twelve"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-c6698fa7c954",
+    "lang": "en",
+    "prompt": "With what words does Goethe's ballad 'The Erlking' begin?",
+    "answer": "Who rides so late through night and wind?",
+    "distractors": [
+      "Once upon a time there was a king",
+      "Through the forest walked a wanderer",
+      "Who rides so late through storm and rain?"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-arts-edcad9d8e87d",
+    "lang": "en",
+    "prompt": "What is Hans's first trade in 'Hans in Luck'?",
+    "answer": "He trades the lump of gold for a horse",
+    "distractors": [
+      "He trades a cow for a pig",
+      "He trades a horse for a goose",
+      "He trades a grindstone for gold"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-arts-d05bb8cf94a8",
+    "lang": "en",
+    "prompt": "What is the title of Erich Kästner's novel about two girls who look alike?",
+    "answer": "The Parent Trap (Das doppelte Lottchen)",
+    "distractors": [
+      "Emil and the Detectives",
+      "Annaluise and Anton",
+      "The Flying Classroom"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-geography-cebb6f293dfb",
+    "lang": "en",
+    "prompt": "Which continent does Greenland belong to geographically?",
+    "answer": "North America",
+    "distractors": [
+      "Europe",
+      "Asia",
+      "Antarctica"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-ff9143f19758",
+    "lang": "en",
+    "prompt": "What is the capital of the German state of Saxony?",
+    "answer": "Dresden",
+    "distractors": [
+      "Leipzig",
+      "Chemnitz",
+      "Zwickau"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "germany",
+      "europe"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-1022ee6b1d8f",
+    "lang": "en",
+    "prompt": "How many time zones does Germany have?",
+    "answer": "One",
+    "distractors": [
+      "Two",
+      "Three",
+      "None"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-e554ce4ab5ed",
+    "lang": "en",
+    "prompt": "What is the capital of the German state of Saxony-Anhalt?",
+    "answer": "Magdeburg",
+    "distractors": [
+      "Halle (Saale)",
+      "Dessau",
+      "Wittenberg"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "germany",
+      "europe"
+    ],
+    "difficulty": 5,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-047a0ecc8fa0",
+    "lang": "en",
+    "prompt": "In Charles Schulz's comic strip 'Peanuts', which instrument does the character Schroeder famously play, usually on a toy-sized version?",
+    "answer": "The piano",
+    "distractors": [
+      "The violin",
+      "The trumpet",
+      "The accordion"
+    ],
+    "tags": [
+      "arts",
+      "peanuts",
+      "comic-strip",
+      "schroeder"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-271728c37287",
+    "lang": "en",
+    "prompt": "Which pope's reign lasted only 33 days in 1978, directly preceding the papacy of John Paul II?",
+    "answer": "Pope John Paul I",
+    "distractors": [
+      "Pope Paul VI",
+      "Pope Pius XII",
+      "Pope Benedict XVI"
+    ],
+    "tags": [
+      "history",
+      "popes",
+      "Catholic Church",
+      "John Paul II"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-history-fb85c4b56312",
+    "lang": "en",
+    "prompt": "On which Apollo mission did Neil Armstrong and Buzz Aldrin first land on the Moon?",
+    "answer": "Apollo 11",
+    "distractors": [
+      "Apollo 13",
+      "Apollo 12",
+      "Apollo 17"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-arts-f1b2c225b3bc",
+    "lang": "en",
+    "prompt": "Who wrote “Don Quixote”?",
+    "answer": "Miguel de Cervantes",
+    "distractors": [
+      "Lope de Vega",
+      "Gabriel García Márquez",
+      "Dante Alighieri"
+    ],
+    "tags": [
+      "arts",
+      "literature"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-267860f0c59f",
+    "lang": "en",
+    "prompt": "On which day is the Feast of the Three Kings (Epiphany) celebrated in Germany?",
+    "answer": "January 6",
+    "distractors": [
+      "December 24",
+      "January 1",
+      "February 2"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-arts-a627bf1a6faa",
+    "lang": "en",
+    "prompt": "With what does the evil queen poison Snow White in the Disney film?",
+    "answer": "With an apple",
+    "distractors": [
+      "With a comb",
+      "With a pear",
+      "With a lace"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 1,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-f1108bcdc3ed",
+    "lang": "en",
+    "prompt": "Against which people did the Ottoman Empire commit a genocide during World War I?",
+    "answer": "The Armenians",
+    "distractors": [
+      "The Kurds",
+      "The Greeks",
+      "The Albanians"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-science-3f281d521f61",
+    "lang": "en",
+    "prompt": "At roughly what speed in km/h does a champagne cork shoot out of a bottle?",
+    "answer": "About 40 km/h",
+    "distractors": [
+      "About 10 km/h",
+      "About 100 km/h",
+      "About 220 km/h"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-science-6d078250b8a9",
+    "lang": "en",
+    "prompt": "Which physician is considered the founder of psychoanalysis?",
+    "answer": "Sigmund Freud",
+    "distractors": [
+      "Carl Gustav Jung",
+      "Alfred Adler",
+      "Josef Breuer"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-0b00b66bd40c",
+    "lang": "en",
+    "prompt": "What is the capital of Ghana?",
+    "answer": "Accra",
+    "distractors": [
+      "Quito",
+      "Montevideo",
+      "Asunción"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "africa"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-efe7fd1938c9",
+    "lang": "en",
+    "prompt": "If a friend brings you back a soft cashmere 'pashmina' as a souvenir from Kashmir, what type of clothing item has she given you?",
+    "answer": "Scarf",
+    "distractors": [
+      "Handbag",
+      "Belt",
+      "Hat"
+    ],
+    "tags": [
+      "arts",
+      "pashmina",
+      "cashmere",
+      "fashion"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-3c70bee271d2",
+    "lang": "en",
+    "prompt": "In which ancient region is there the earliest evidence of beer?",
+    "answer": "Mesopotamia",
+    "distractors": [
+      "Ancient Egypt",
+      "Ancient Greece",
+      "Ancient China"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-history-f5ddf77fd7ab",
+    "lang": "en",
+    "prompt": "Who gave the famous speech containing the line 'I have a dream'?",
+    "answer": "Martin Luther King",
+    "distractors": [
+      "Malcolm X",
+      "Nelson Mandela",
+      "Barack Obama"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-arts-63c2ce230363",
+    "lang": "en",
+    "prompt": "What color are the pebbles that Hansel scatters to find the way home?",
+    "answer": "White",
+    "distractors": [
+      "Gray",
+      "Black",
+      "Brown"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-geography-ee00e58229f9",
+    "lang": "en",
+    "prompt": "What is the capital of the U.S. state of North Carolina?",
+    "answer": "Raleigh",
+    "distractors": [
+      "Charlotte",
+      "Greensboro",
+      "Durham"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "usa",
+      "north-america"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-eeafed0194a3",
+    "lang": "en",
+    "prompt": "What is the title of the first book in the Harry Potter series?",
+    "answer": "Harry Potter and the Philosopher's Stone",
+    "distractors": [
+      "Harry Potter and the Chamber of Secrets",
+      "Harry Potter and the Prisoner of Azkaban",
+      "Harry Potter and the Goblet of Fire"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-sports-f8c7baa901ae",
+    "lang": "en",
+    "prompt": "What is the name of the discipline that combines cross-country skiing and shooting?",
+    "answer": "Biathlon",
+    "distractors": [
+      "Triathlon",
+      "Nordic combined",
+      "Pentathlon"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-sports-6b226b5d23fd",
+    "lang": "en",
+    "prompt": "What was special about the Ferrari SF1000 at the 2020 Tuscan Grand Prix?",
+    "answer": "It wore a dark red anniversary livery for Ferrari's 1,000th Grand Prix",
+    "distractors": [
+      "It raced without a front wing",
+      "It was painted entirely white",
+      "It carried the number 1000 as its race number for the first time"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 4,
+    "category": "sports"
+  },
+  {
+    "id": "en-sports-12a75cacbe88",
+    "lang": "en",
+    "prompt": "Which sport is played professionally on a table measuring 3.57 m x 1.78 m?",
+    "answer": "Snooker",
+    "distractors": [
+      "Table tennis",
+      "Darts",
+      "Curling"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 4,
+    "category": "sports"
+  },
+  {
+    "id": "en-geography-3d29133f93f5",
+    "lang": "en",
+    "prompt": "On which continent is Ghana?",
+    "answer": "Africa",
+    "distractors": [
+      "Oceania",
+      "Europe",
+      "Asia"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "africa"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-83bf33ca9219",
+    "lang": "en",
+    "prompt": "What is the capital of Finland?",
+    "answer": "Helsinki",
+    "distractors": [
+      "Warsaw",
+      "Dublin",
+      "Reykjavík"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "europe"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-nature-313af2b6c682",
+    "lang": "en",
+    "prompt": "Which bird species is considered the smallest in the world?",
+    "answer": "The hummingbird (bee hummingbird)",
+    "distractors": [
+      "The wren",
+      "The sparrow",
+      "The tit"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-nature-e49aa5ea7d0f",
+    "lang": "en",
+    "prompt": "Which animal family does the giant panda belong to?",
+    "answer": "Bears",
+    "distractors": [
+      "Raccoons",
+      "Cats",
+      "Mustelids"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 2,
+    "category": "nature"
+  },
+  {
+    "id": "en-arts-7a9b5d8f68c4",
+    "lang": "en",
+    "prompt": "In which city is the Metropolitan Museum of Art located?",
+    "answer": "New York City",
+    "distractors": [
+      "Washington, D.C.",
+      "Boston",
+      "Chicago"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-geography-73ab6335e7fc",
+    "lang": "en",
+    "prompt": "From which country does the brewing company Carlsberg originate?",
+    "answer": "Denmark",
+    "distractors": [
+      "The Netherlands",
+      "Sweden",
+      "Germany"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-b7a48cbc7a95",
+    "lang": "en",
+    "prompt": "In which mountain range did the Inca build their empire?",
+    "answer": "In the Andes",
+    "distractors": [
+      "In the Rocky Mountains",
+      "In the Sierra Madre",
+      "In the Himalayas"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-3d4079e0d838",
+    "lang": "en",
+    "prompt": "On which continent is Peru?",
+    "answer": "South America",
+    "distractors": [
+      "Africa",
+      "Asia",
+      "North America"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "south-america"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-sports-1b8ae97f93e8",
+    "lang": "en",
+    "prompt": "Which country does the Formula 1 driver Charles Leclerc come from?",
+    "answer": "Monaco",
+    "distractors": [
+      "France",
+      "Italy",
+      "Belgium"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 4,
+    "category": "sports"
+  },
+  {
+    "id": "en-science-356e7014d83d",
+    "lang": "en",
+    "prompt": "In which unit is electrical voltage measured?",
+    "answer": "Volt",
+    "distractors": [
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-nature-f896a138a19d",
+    "lang": "en",
+    "prompt": "To which class of animals does the platypus belong?",
+    "answer": "Mammal",
+    "distractors": [
+      "Insect",
+      "Arachnid",
+      "Bird"
+    ],
+    "tags": [
+      "nature",
+      "animals",
+      "classification"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-history-fa1f8b895b88",
+    "lang": "en",
+    "prompt": "During which revolution was the French king Louis XVI executed?",
+    "answer": "The French Revolution",
+    "distractors": [
+      "The Russian October Revolution",
+      "The American Revolution",
+      "The July Revolution of 1830"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-science-a082bedb132c",
+    "lang": "en",
+    "prompt": "Which chemical element has the symbol \"Cr\"?",
+    "answer": "Chromium",
+    "distractors": [
+      "Manganese",
+      "Iron",
+      "Cobalt"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-16a0852fc77e",
+    "lang": "en",
+    "prompt": "What is the capital of Switzerland?",
+    "answer": "Bern",
+    "distractors": [
+      "Vienna",
+      "Athens",
+      "Stockholm"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "europe"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-sports-657eb1556ed6",
+    "lang": "en",
+    "prompt": "Name a year in which the German national football team won the World Cup.",
+    "answer": "2014",
+    "distractors": [
+      "1996",
+      "2004",
+      "1998"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-nature-cae1c16ce1b8",
+    "lang": "en",
+    "prompt": "What is a female horse called?",
+    "answer": "Mare",
+    "distractors": [
+      "Stallion",
+      "Gelding",
+      "Foal"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 1,
+    "category": "nature"
+  },
+  {
+    "id": "en-science-75bef0e57bf1",
+    "lang": "en",
+    "prompt": "What is the unit of electrical resistance?",
+    "answer": "Ohm",
+    "distractors": [
+      "Volt",
+      "Ampere",
+      "Watt"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-fc7a12e16330",
+    "lang": "en",
+    "prompt": "What is the capital of Germany?",
+    "answer": "Berlin",
+    "distractors": [
+      "Rome",
+      "Madrid",
+      "London"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "europe"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-65b84af6347a",
+    "lang": "en",
+    "prompt": "On which continent is South Korea?",
+    "answer": "Asia",
+    "distractors": [
+      "Europe",
+      "Africa",
+      "North America"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "asia"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-85dbd273f24f",
+    "lang": "en",
+    "prompt": "Which river flows through Dresden?",
+    "answer": "Elbe",
+    "distractors": [
+      "Spree",
+      "Saale",
+      "Mulde"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-2f1e4e0b0819",
+    "lang": "en",
+    "prompt": "Which Renaissance polymath created the painting Mona Lisa?",
+    "answer": "Leonardo da Vinci",
+    "distractors": [
+      "Michelangelo",
+      "Raphael",
+      "Sandro Botticelli"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-science-9cb1e2754a4a",
+    "lang": "en",
+    "prompt": "Which chemical element has the symbol \"Ni\"?",
+    "answer": "Nickel",
+    "distractors": [
+      "Copper",
+      "Zinc",
+      "Silver"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-sports-408230c3759d",
+    "lang": "en",
+    "prompt": "In which sport is the term 'Grand Slam' used?",
+    "answer": "Tennis",
+    "distractors": [
+      "Golf",
+      "Chess",
+      "Boxing"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-science-650beccdc180",
+    "lang": "en",
+    "prompt": "A ruby's vivid red color comes from trace amounts of which element replacing aluminum atoms in its corundum crystal structure?",
+    "answer": "Chromium",
+    "distractors": [
+      "Iron",
+      "Titanium",
+      "Manganese"
+    ],
+    "tags": [
+      "science",
+      "gemstones",
+      "mineralogy",
+      "chemistry",
+      "corundum"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-504882b3b011",
+    "lang": "en",
+    "prompt": "Which country does the island of Sicily belong to?",
+    "answer": "Italy",
+    "distractors": [
+      "France",
+      "Greece",
+      "Spain"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-dd6e2cb5589f",
+    "lang": "en",
+    "prompt": "What is the capital of the German state of Thuringia?",
+    "answer": "Erfurt",
+    "distractors": [
+      "Jena",
+      "Gera",
+      "Weimar"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "germany",
+      "europe"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-5f6845126c6c",
+    "lang": "en",
+    "prompt": "On a conventionally north-oriented map, which compass direction is on the left and which is on the right?",
+    "answer": "West is on the left, east is on the right",
+    "distractors": [
+      "East is on the left, west is on the right",
+      "North is on the left, south is on the right",
+      "South is on the left, north is on the right"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-nature-ed18c6716418",
+    "lang": "en",
+    "prompt": "What do you call a young deer?",
+    "answer": "Calf",
+    "distractors": [
+      "Kid",
+      "Lamb",
+      "Foal"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-geography-a94176c383a2",
+    "lang": "en",
+    "prompt": "On which continent is Greece?",
+    "answer": "Europe",
+    "distractors": [
+      "Africa",
+      "Asia",
+      "North America"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "europe"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-fce2bb6f4ae4",
+    "lang": "en",
+    "prompt": "Who has been the 46th President of the USA since January 2021?",
+    "answer": "Joe Biden",
+    "distractors": [
+      "Donald Trump",
+      "Barack Obama",
+      "Kamala Harris"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-sports-86565bf8dc34",
+    "lang": "en",
+    "prompt": "Which riders is the white jersey awarded to at the Tour de France?",
+    "answer": "The best young rider (youth classification)",
+    "distractors": [
+      "The best climber",
+      "The sprinter with the most points",
+      "The overall leader"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-history-adf46dbbcb35",
+    "lang": "en",
+    "prompt": "Who is regarded as the inventor of printing with movable type in Europe?",
+    "answer": "Johannes Gutenberg",
+    "distractors": [
+      "Johannes Kepler",
+      "Martin Luther",
+      "Nicolaus Copernicus"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-nature-cf1472f39dfd",
+    "lang": "en",
+    "prompt": "To which plant family does the watermelon belong?",
+    "answer": "Gourds (Cucurbitaceae)",
+    "distractors": [
+      "Berry fruits",
+      "Nightshades",
+      "Rose family"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 4,
+    "category": "nature"
+  },
+  {
+    "id": "en-science-7d163984f1b2",
+    "lang": "en",
+    "prompt": "What is the lowest possible temperature, absolute zero, in degrees Celsius?",
+    "answer": "−273.15 °C",
+    "distractors": [
+      "−100 °C",
+      "−459 °C",
+      "0 °C"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-technology-d43cdfa63117",
+    "lang": "en",
+    "prompt": "What does the DDR in DDR-RAM (memory) stand for?",
+    "answer": "Double Data Rate",
+    "distractors": [
+      "Dedicated Data RAM",
+      "Double Data Register",
+      "Direct Data Read"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-9889625f1abd",
+    "lang": "en",
+    "prompt": "What is the capital of the U.S. state of Washington?",
+    "answer": "Olympia",
+    "distractors": [
+      "Seattle",
+      "Spokane",
+      "Tacoma"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "usa",
+      "north-america"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-75c94b2349a4",
+    "lang": "en",
+    "prompt": "Which emergency service do you reach by dialing 112 in Germany?",
+    "answer": "The fire brigade (and ambulance service)",
+    "distractors": [
+      "The police",
+      "The pharmacy emergency service",
+      "The armed forces"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-sports-aa8a576a7abd",
+    "lang": "en",
+    "prompt": "The Tour de France is a major event in which sport?",
+    "answer": "Cycling",
+    "distractors": [
+      "Running",
+      "Motor racing",
+      "Rowing"
+    ],
+    "tags": [
+      "sports",
+      "cycling"
+    ],
+    "difficulty": 1,
+    "category": "sports"
+  },
+  {
+    "id": "en-technology-efcc801ef94e",
+    "lang": "en",
+    "prompt": "In what year was the platform Twitch (twitch.tv) founded?",
+    "answer": "2011",
+    "distractors": [
+      "2007",
+      "2013",
+      "2009"
+    ],
+    "tags": [
+      "technology",
+      "internet"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-d94bdf342c4e",
+    "lang": "en",
+    "prompt": "Which country has the most active volcanoes?",
+    "answer": "Indonesia",
+    "distractors": [
+      "Japan",
+      "Iceland",
+      "USA"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-31d830f8805e",
+    "lang": "en",
+    "prompt": "Military rulers known as shoguns held effective power for centuries in which country, until the Meiji Restoration of 1868?",
+    "answer": "Japan",
+    "distractors": [
+      "China",
+      "Korea",
+      "Vietnam"
+    ],
+    "tags": [
+      "history",
+      "feudal era",
+      "military rule"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-arts-5c014af644f0",
+    "lang": "en",
+    "prompt": "What is the tower of a mosque called?",
+    "answer": "Minaret",
+    "distractors": [
+      "Dome",
+      "Pagoda",
+      "Campanile"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-6225c9cc58d0",
+    "lang": "en",
+    "prompt": "What was the world's first postage stamp called, likely the first prepaid postal system?",
+    "answer": "The Penny Black",
+    "distractors": [
+      "The Schwarzer Einser",
+      "The Blue Mauritius",
+      "The Red Kreuzer"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-science-e126844deea1",
+    "lang": "en",
+    "prompt": "What is the atomic number of sodium?",
+    "answer": "11",
+    "distractors": [
+      "12",
+      "13",
+      "14"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-333d077f4f28",
+    "lang": "en",
+    "prompt": "In which city does Big Ben stand?",
+    "answer": "London",
+    "distractors": [
+      "Manchester",
+      "Edinburgh",
+      "Birmingham"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-technology-bf4cee7d3fe1",
+    "lang": "en",
+    "prompt": "Which Adobe program is most commonly used for image editing?",
+    "answer": "Photoshop",
+    "distractors": [
+      "Illustrator",
+      "InDesign",
+      "Premiere Pro"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 1,
+    "category": "technology"
+  },
+  {
+    "id": "en-nature-e4d9b1ccf02a",
+    "lang": "en",
+    "prompt": "Which animals are considered the strongest in the world relative to their own body weight?",
+    "answer": "Ants",
+    "distractors": [
+      "Rhinoceros beetles",
+      "Bees",
+      "Termites"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 2,
+    "category": "nature"
+  },
+  {
+    "id": "en-science-d8bc9200078b",
+    "lang": "en",
+    "prompt": "Ray Bradbury named his novel about book-burning after the temperature at which paper is said to catch fire. What is that temperature in Fahrenheit?",
+    "answer": "451°F",
+    "distractors": [
+      "212°F",
+      "350°F",
+      "600°F"
+    ],
+    "tags": [
+      "science",
+      "literature",
+      "combustion",
+      "Ray Bradbury"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-history-eb8fabd4508f",
+    "lang": "en",
+    "prompt": "Which country was the first in the world to give women the right to vote?",
+    "answer": "New Zealand",
+    "distractors": [
+      "Sweden",
+      "Finland",
+      "USA"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-sports-d45c73ff33bc",
+    "lang": "en",
+    "prompt": "In which sport is the Davis Cup contested?",
+    "answer": "Tennis",
+    "distractors": [
+      "Golf",
+      "Rugby",
+      "Sailing"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-science-8a0bb9d56d03",
+    "lang": "en",
+    "prompt": "In which unit is luminous intensity measured?",
+    "answer": "Candela",
+    "distractors": [
+      "Lumen",
+      "Lux",
+      "Watt"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-science-95205b1ad2a6",
+    "lang": "en",
+    "prompt": "What is H2O?",
+    "answer": "Water",
+    "distractors": [
+      "Hydrogen",
+      "Oxygen",
+      "Salt"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-history-538cf16c231a",
+    "lang": "en",
+    "prompt": "Which ship, sailing under Juan Sebastián Elcano after Ferdinand Magellan's death, became the first vessel to complete a full circumnavigation of the globe?",
+    "answer": "Victoria",
+    "distractors": [
+      "Trinidad",
+      "Santa María",
+      "Golden Hind"
+    ],
+    "tags": [
+      "history",
+      "exploration",
+      "ships",
+      "age-of-discovery"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-arts-f52041d927f3",
+    "lang": "en",
+    "prompt": "In Johnny Gruelle's classic children's book series, Raggedy Ann's rag-doll brother — who wears a sailor suit and matching cap — goes by what name?",
+    "answer": "Raggedy Andy",
+    "distractors": [
+      "Raggedy Sam",
+      "Raggedy Tom",
+      "Raggedy Ben"
+    ],
+    "tags": [
+      "arts",
+      "Raggedy Ann",
+      "children's literature",
+      "dolls"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-845edd1a374d",
+    "lang": "en",
+    "prompt": "George III, who reigned over Britain from 1760 to 1820, was the monarch during which conflict that ended with Britain losing its thirteen American colonies?",
+    "answer": "The American Revolution (American War of Independence)",
+    "distractors": [
+      "The Seven Years' War",
+      "The French Revolution",
+      "The War of 1812"
+    ],
+    "tags": [
+      "history",
+      "britain"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-sports-bf8f57fdba6a",
+    "lang": "en",
+    "prompt": "Billie Jean King's 1973 'Battle of the Sexes' victory over Bobby Riggs took place in the Astrodome of which U.S. city?",
+    "answer": "Houston",
+    "distractors": [
+      "Dallas",
+      "Atlanta",
+      "New Orleans"
+    ],
+    "tags": [
+      "sports",
+      "tennis",
+      "battle of the sexes",
+      "billie jean king"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-science-d4e5cac8f0fb",
+    "lang": "en",
+    "prompt": "Which chemical element has the symbol \"Hg\"?",
+    "answer": "Mercury",
+    "distractors": [
+      "Lead",
+      "Uranium",
+      "Hydrogen"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-sports-8c02197e200b",
+    "lang": "en",
+    "prompt": "In which sport are terms like 'eagle' and 'birdie' used?",
+    "answer": "Golf",
+    "distractors": [
+      "Tennis",
+      "Baseball",
+      "Cricket"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-science-955fabade4ce",
+    "lang": "en",
+    "prompt": "Which organ produces the hormone insulin?",
+    "answer": "The pancreas",
+    "distractors": [
+      "The liver",
+      "The kidney",
+      "The spleen"
+    ],
+    "tags": [
+      "science",
+      "biology",
+      "human-body"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-technology-b24044828cc0",
+    "lang": "en",
+    "prompt": "What was substantially developed at the Fraunhofer Institute for Integrated Circuits in 1982?",
+    "answer": "The MP3 format",
+    "distractors": [
+      "The CD",
+      "Wi-Fi",
+      "The USB flash drive"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-sports-c4cfe4cff266",
+    "lang": "en",
+    "prompt": "In American sports slang, the ball used in which game is traditionally nicknamed a 'pigskin'?",
+    "answer": "American football",
+    "distractors": [
+      "Baseball",
+      "Basketball",
+      "Soccer"
+    ],
+    "tags": [
+      "sports",
+      "slang",
+      "american-football"
+    ],
+    "difficulty": 1,
+    "category": "sports"
+  },
+  {
+    "id": "en-arts-660c68c50c45",
+    "lang": "en",
+    "prompt": "With which phrase do many classic fairy tales begin?",
+    "answer": "Once upon a time",
+    "distractors": [
+      "Long ago",
+      "One day",
+      "In a faraway land"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 1,
+    "category": "arts"
+  },
+  {
+    "id": "en-science-7a91c3efbbfa",
+    "lang": "en",
+    "prompt": "What does it mean when a hazardous substance is marked with a skull and crossbones?",
+    "answer": "Toxic",
+    "distractors": [
+      "Corrosive",
+      "Highly flammable",
+      "Hazardous to the environment"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-arts-9199195e2de0",
+    "lang": "en",
+    "prompt": "What does the Valyrian greeting 'Valar Dohaeris' mean?",
+    "answer": "All men must serve",
+    "distractors": [
+      "All men must die",
+      "Death greets you",
+      "May the fire be with you"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-geography-71e099e33a49",
+    "lang": "en",
+    "prompt": "Which river flows through London?",
+    "answer": "Thames",
+    "distractors": [
+      "Seine",
+      "Rhine",
+      "Danube"
+    ],
+    "tags": [
+      "geography",
+      "rivers",
+      "europe"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-07a2a6534d52",
+    "lang": "en",
+    "prompt": "When a rider lets go of a spinning merry-go-round and is flung outward in a straight line, which apparent (fictitious) force is popularly credited with the effect?",
+    "answer": "centrifugal force",
+    "distractors": [
+      "centripetal force",
+      "Coriolis force",
+      "gravitational force"
+    ],
+    "tags": [
+      "science",
+      "physics",
+      "motion",
+      "inertia"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-nature-a97fb82f8719",
+    "lang": "en",
+    "prompt": "Which venomous snake native to Germany is known for the males' 'wrestling matches' over a female?",
+    "answer": "Common European adder",
+    "distractors": [
+      "Grass snake",
+      "Dice snake",
+      "Smooth snake"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 4,
+    "category": "nature"
+  },
+  {
+    "id": "en-sports-486af56cdbef",
+    "lang": "en",
+    "prompt": "Developed in the late 19th century by Jigoro Kano and later added to the Olympic program in 1964, the grappling sport judo was created in which country?",
+    "answer": "Japan",
+    "distractors": [
+      "China",
+      "South Korea",
+      "Thailand"
+    ],
+    "tags": [
+      "sports",
+      "martial-arts"
+    ],
+    "difficulty": 1,
+    "category": "sports"
+  },
+  {
+    "id": "en-science-5242255c043c",
+    "lang": "en",
+    "prompt": "What colors are the position lights on the left and right wingtips of an aircraft?",
+    "answer": "Red on the left, green on the right",
+    "distractors": [
+      "Green on the left, red on the right",
+      "White on the left, red on the right",
+      "Red on the left, white on the right"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-ad47694a433b",
+    "lang": "en",
+    "prompt": "Approximately how many meters is the Earth's equator (circumference)?",
+    "answer": "About 40,075,000 meters (roughly 40,075 km)",
+    "distractors": [
+      "About 20,000,000 meters",
+      "About 60,000,000 meters",
+      "About 100,000,000 meters"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-33310957a1da",
+    "lang": "en",
+    "prompt": "What are the three branches of state power in Germany?",
+    "answer": "The legislative, executive, and judicial branches",
+    "distractors": [
+      "The Bundestag, the Bundesrat, and the Federal President",
+      "The government, the opposition, and the administration",
+      "The federation, the states, and the municipalities"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-sports-33c20df963c9",
+    "lang": "en",
+    "prompt": "What is a draw called in chess?",
+    "answer": "A draw (remis)",
+    "distractors": [
+      "Checkmate",
+      "Stalemate",
+      "Castling"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-history-5ef10268b680",
+    "lang": "en",
+    "prompt": "Who was the third Chancellor of the Federal Republic of Germany?",
+    "answer": "Kurt Georg Kiesinger",
+    "distractors": [
+      "Willy Brandt",
+      "Ludwig Erhard",
+      "Helmut Schmidt"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-science-c018d2591680",
+    "lang": "en",
+    "prompt": "How many kidneys does a human normally have?",
+    "answer": "Two",
+    "distractors": [
+      "One",
+      "Three",
+      "Four"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-science-ba36e624c013",
+    "lang": "en",
+    "prompt": "Which bluish, ferromagnetic chemical element has the atomic number 27?",
+    "answer": "Cobalt",
+    "distractors": [
+      "Iron",
+      "Nickel",
+      "Chromium"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-history-69a7ad258fcf",
+    "lang": "en",
+    "prompt": "Which holiday or custom takes place every year on December 6?",
+    "answer": "St. Nicholas Day",
+    "distractors": [
+      "Christmas Eve",
+      "All Saints' Day",
+      "Epiphany"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 1,
+    "category": "history"
+  },
+  {
+    "id": "en-sports-2775870d74a1",
+    "lang": "en",
+    "prompt": "Who won the 2014 FIFA World Cup?",
+    "answer": "Germany",
+    "distractors": [
+      "Argentina",
+      "Brazil",
+      "Spain"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-geography-c1bb6dba4e6e",
+    "lang": "en",
+    "prompt": "On which continent is Slovenia?",
+    "answer": "Europe",
+    "distractors": [
+      "Asia",
+      "North America",
+      "South America"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "europe"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-0027a86c998c",
+    "lang": "en",
+    "prompt": "In which US state is the Mount Rushmore National Memorial located?",
+    "answer": "South Dakota",
+    "distractors": [
+      "North Carolina",
+      "South Carolina",
+      "Wyoming"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-sports-b8cfb705b7a4",
+    "lang": "en",
+    "prompt": "What is the football match between FC Barcelona and Real Madrid called?",
+    "answer": "El Clásico",
+    "distractors": [
+      "Derby della Madonnina",
+      "El Derbi",
+      "Il Derby d'Italia"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-sports-7245f97a5e71",
+    "lang": "en",
+    "prompt": "What does an archer carry their arrows in?",
+    "answer": "A quiver",
+    "distractors": [
+      "A basket",
+      "A bag",
+      "A case"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-history-ad07e8b11d6b",
+    "lang": "en",
+    "prompt": "Which decorated tree is carried through the streets and then erected in many villages between late April and Pentecost?",
+    "answer": "Maypole",
+    "distractors": [
+      "Topping-out tree",
+      "Pentecost tree",
+      "Harvest tree"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-b676c56cf97f",
+    "lang": "en",
+    "prompt": "What is the capital of the U.S. state of Georgia?",
+    "answer": "Atlanta",
+    "distractors": [
+      "Savannah",
+      "Augusta",
+      "Columbus"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "usa",
+      "north-america"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-technology-eb65b516489c",
+    "lang": "en",
+    "prompt": "In which year was the world's first website published?",
+    "answer": "1991",
+    "distractors": [
+      "1982",
+      "1989",
+      "1995"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 4,
+    "category": "technology"
+  },
+  {
+    "id": "en-history-cd61895d7339",
+    "lang": "en",
+    "prompt": "In the Middle Ages, which animal carried the infected fleas that transmitted the plague (the Black Death) to humans?",
+    "answer": "The rat",
+    "distractors": [
+      "The bat",
+      "The squirrel",
+      "The mosquito"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-science-a599d984b035",
+    "lang": "en",
+    "prompt": "Who is regarded as the inventor of the mercury thermometer and the temperature scale named after him?",
+    "answer": "Daniel Gabriel Fahrenheit",
+    "distractors": [
+      "Anders Celsius",
+      "Lord Kelvin",
+      "Galileo Galilei"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-science-a4a3567e68cc",
+    "lang": "en",
+    "prompt": "What color is an emerald?",
+    "answer": "Green",
+    "distractors": [
+      "Red",
+      "Blue",
+      "Yellow"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-nature-e8212287046b",
+    "lang": "en",
+    "prompt": "What are the larvae of frogs called?",
+    "answer": "Tadpoles",
+    "distractors": [
+      "Maggots",
+      "Grubs",
+      "Nymphs"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 1,
+    "category": "nature"
+  },
+  {
+    "id": "en-geography-f39196375d38",
+    "lang": "en",
+    "prompt": "What is the capital of Turkey?",
+    "answer": "Ankara",
+    "distractors": [
+      "Vienna",
+      "Athens",
+      "Stockholm"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "asia"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-404c2f758772",
+    "lang": "en",
+    "prompt": "In which century was the Empire State Building completed?",
+    "answer": "In the 20th century",
+    "distractors": [
+      "In the 19th century",
+      "In the 18th century",
+      "In the 21st century"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-14673e04eab5",
+    "lang": "en",
+    "prompt": "O'Hare International Airport, identified by the IATA airport code ORD, is the main airport serving which major U.S. city?",
+    "answer": "Chicago",
+    "distractors": [
+      "Orlando",
+      "Denver",
+      "Cleveland"
+    ],
+    "tags": [
+      "geography",
+      "airports",
+      "IATA codes",
+      "Chicago",
+      "aviation"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-01bc33154220",
+    "lang": "en",
+    "prompt": "In which Grimm fairy tale does the brother drink from an enchanted spring and turn into a deer?",
+    "answer": "Brother and Sister (Brüderchen und Schwesterchen)",
+    "distractors": [
+      "Hansel and Gretel",
+      "The Goose Girl",
+      "Snow-White and Rose-Red"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-arts-8b5581356940",
+    "lang": "en",
+    "prompt": "What is the name of the artistic era associated with artists such as Leonardo da Vinci and Raphael?",
+    "answer": "Renaissance",
+    "distractors": [
+      "Baroque",
+      "Gothic",
+      "Romanticism"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-sports-932a8ccac775",
+    "lang": "en",
+    "prompt": "How many teams make up a round of 16?",
+    "answer": "16",
+    "distractors": [
+      "8",
+      "32",
+      "4"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-nature-11abcbc7c442",
+    "lang": "en",
+    "prompt": "What determines the sex of the offspring of a crocodile at birth?",
+    "answer": "The incubation temperature of the eggs",
+    "distractors": [
+      "The size of the egg",
+      "The number of eggs in the clutch",
+      "The soil moisture"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 4,
+    "category": "nature"
+  },
+  {
+    "id": "en-arts-602fc73ac124",
+    "lang": "en",
+    "prompt": "The surreal, single-panel comic strip 'The Far Side' was written and drawn by which American cartoonist?",
+    "answer": "Gary Larson",
+    "distractors": [
+      "Bill Watterson",
+      "Charles Schulz",
+      "Scott Adams"
+    ],
+    "tags": [
+      "arts",
+      "comics",
+      "cartoonist",
+      "pop culture"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-95a24e1da24f",
+    "lang": "en",
+    "prompt": "By what French name is Joan of Arc known?",
+    "answer": "Jeanne d'Arc",
+    "distractors": [
+      "Marie de France",
+      "Alienor d'Aquitaine",
+      "Catherine de Medicis"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-technology-d4af419b6b73",
+    "lang": "en",
+    "prompt": "On which mode of transport is a sextant traditionally used?",
+    "answer": "On ships",
+    "distractors": [
+      "In cars",
+      "On airplanes",
+      "On trains"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-science-40a59862011a",
+    "lang": "en",
+    "prompt": "Which type of cell in the retina of the eye perceives light-dark contrasts?",
+    "answer": "The rods",
+    "distractors": [
+      "The cones",
+      "The ganglion cells",
+      "The pigment cells"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-history-4c954cb97b0e",
+    "lang": "en",
+    "prompt": "What is the system of government of the Federal Republic of Germany?",
+    "answer": "Parliamentary democracy",
+    "distractors": [
+      "Presidential democracy",
+      "Constitutional monarchy",
+      "Direct democracy"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-arts-696456a368c8",
+    "lang": "en",
+    "prompt": "From which collection of stories does 'Ali Baba and the Forty Thieves' come?",
+    "answer": "One Thousand and One Nights",
+    "distractors": [
+      "Grimm's Fairy Tales",
+      "Tales of Antiquity",
+      "The Decameron"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-science-d08531688fb9",
+    "lang": "en",
+    "prompt": "How many baby teeth does a child have once the full set of milk teeth has come in?",
+    "answer": "20",
+    "distractors": [
+      "24",
+      "28",
+      "32"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-science-bd3711dbeb34",
+    "lang": "en",
+    "prompt": "What is the name of the retinal protein discovered in 2008 that was named after the yellow Pokémon Pikachu?",
+    "answer": "Pikachurin",
+    "distractors": [
+      "Pikatoxin",
+      "Electrin",
+      "Lumikin"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-sports-8c6fec9c9958",
+    "lang": "en",
+    "prompt": "In which sport is a small platform used that must be stepped onto and off again in various ways?",
+    "answer": "Step aerobics",
+    "distractors": [
+      "Vaulting over the buck",
+      "Trampolining",
+      "Hurdling"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-arts-fe82d35c386b",
+    "lang": "en",
+    "prompt": "What are the three primary colors of additive color mixing?",
+    "answer": "Red, green and blue",
+    "distractors": [
+      "Red, yellow and blue",
+      "Yellow, green and blue",
+      "Red, green and yellow"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-nature-15db0677b625",
+    "lang": "en",
+    "prompt": "What does the giant panda feed on almost exclusively?",
+    "answer": "Bamboo",
+    "distractors": [
+      "Eucalyptus",
+      "Reed grass",
+      "Sugarcane"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 1,
+    "category": "nature"
+  },
+  {
+    "id": "en-nature-453b3a9b7995",
+    "lang": "en",
+    "prompt": "Which animal can deliberately slow its heart rate to conserve energy?",
+    "answer": "The sloth",
+    "distractors": [
+      "The snail",
+      "The hedgehog",
+      "The mole"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-geography-62e63cd91497",
+    "lang": "en",
+    "prompt": "Which city is considered the unofficial 'capital of Europe' (seat of the EU institutions)?",
+    "answer": "Brussels",
+    "distractors": [
+      "Frankfurt",
+      "Strasbourg",
+      "The Hague"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-sports-a4c87bb360da",
+    "lang": "en",
+    "prompt": "How many kilometers is the official marathon distance?",
+    "answer": "42.195 kilometers",
+    "distractors": [
+      "40 kilometers",
+      "45 kilometers",
+      "50 kilometers"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-sports-e590b76c851b",
+    "lang": "en",
+    "prompt": "Which sport was Michael Jordan known for?",
+    "answer": "Basketball",
+    "distractors": [
+      "American football",
+      "Baseball",
+      "Tennis"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 1,
+    "category": "sports"
+  },
+  {
+    "id": "en-science-df3be894f751",
+    "lang": "en",
+    "prompt": "Which part of the ear contains the same word as the percussion instrument 'drum'?",
+    "answer": "The eardrum",
+    "distractors": [
+      "The inner ear",
+      "The auricle",
+      "The ear canal"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-technology-72fd37e07db0",
+    "lang": "en",
+    "prompt": "What voltage does a German household toaster typically run on?",
+    "answer": "230 volts",
+    "distractors": [
+      "12 volts",
+      "110 volts",
+      "400 volts"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "category": "technology"
+  },
+  {
+    "id": "en-science-e4a27ef3058e",
+    "lang": "en",
+    "prompt": "Which chemical element is a diamond made of?",
+    "answer": "Carbon",
+    "distractors": [
+      "Silicon",
+      "Calcium",
+      "Aluminum"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-science-9027d3621686",
+    "lang": "en",
+    "prompt": "What is the atomic number of carbon?",
+    "answer": "6",
+    "distractors": [
+      "7",
+      "8",
+      "9"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-technology-1fe230f65dba",
+    "lang": "en",
+    "prompt": "Which manufacturer sells watch models such as the Datejust, Day-Date and Submariner?",
+    "answer": "Rolex",
+    "distractors": [
+      "Omega",
+      "Patek Philippe",
+      "Audemars Piguet"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 4,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-76be3cafbd20",
+    "lang": "en",
+    "prompt": "Which city is often referred to as the \"Capital of Europe\"?",
+    "answer": "Brussels",
+    "distractors": [
+      "Strasbourg",
+      "Berlin",
+      "Paris"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-180f271f92d3",
+    "lang": "en",
+    "prompt": "Which territory did the United States buy from the Russian Empire in 1867?",
+    "answer": "Alaska",
+    "distractors": [
+      "Hawaii",
+      "California",
+      "Florida"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-technology-91146097dbbe",
+    "lang": "en",
+    "prompt": "Which car brand depicts a serpent devouring a child in its logo?",
+    "answer": "Alfa Romeo",
+    "distractors": [
+      "Ferrari",
+      "Maserati",
+      "Lamborghini"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-sports-b7aa1c24a253",
+    "lang": "en",
+    "prompt": "What is the underhand pass in volleyball called?",
+    "answer": "The bump (dig)",
+    "distractors": [
+      "The set",
+      "The spike",
+      "The block"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-science-7211a99c27d5",
+    "lang": "en",
+    "prompt": "Which chemical element has the symbol \"H\"?",
+    "answer": "Hydrogen",
+    "distractors": [
+      "Helium",
+      "Lithium",
+      "Boron"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-science-a5a1b7a93d3c",
+    "lang": "en",
+    "prompt": "What does a dermatologist examine?",
+    "answer": "The skin",
+    "distractors": [
+      "The heart",
+      "The eyes",
+      "The teeth"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-arts-a877bd4423ca",
+    "lang": "en",
+    "prompt": "What color is Lucky Luke's neckerchief?",
+    "answer": "Yellow",
+    "distractors": [
+      "Red",
+      "Blue",
+      "Green"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-sports-f99c36a1ce26",
+    "lang": "en",
+    "prompt": "Which German football club is nicknamed 'The Red Devils'?",
+    "answer": "1. FC Kaiserslautern",
+    "distractors": [
+      "FC Bayern Munich",
+      "Bayer Leverkusen",
+      "1. FC Cologne"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-science-f5331fb043b2",
+    "lang": "en",
+    "prompt": "What is the atomic number of nitrogen?",
+    "answer": "7",
+    "distractors": [
+      "8",
+      "9",
+      "10"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-48aa603628af",
+    "lang": "en",
+    "prompt": "In which country would you find the Sydney Opera House?",
+    "answer": "Australia",
+    "distractors": [
+      "Peru",
+      "Greece",
+      "Spain"
+    ],
+    "tags": [
+      "geography",
+      "landmarks",
+      "oceania"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-3eeadf05704a",
+    "lang": "en",
+    "prompt": "What does a PCR test detect?",
+    "answer": "The presence of a pathogen's genetic material (e.g. a virus)",
+    "distractors": [
+      "The blood sugar level",
+      "The blood type",
+      "The cholesterol level"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-science-d1a0f8f41dfe",
+    "lang": "en",
+    "prompt": "What do you call a dummy medication with no active ingredient?",
+    "answer": "Placebo",
+    "distractors": [
+      "Antibiotic",
+      "Generic drug",
+      "Vaccine"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-29f8cc4d9e0f",
+    "lang": "en",
+    "prompt": "Which football club is the youngest club overall to have played in the German Bundesliga?",
+    "answer": "RB Leipzig (RasenBallsport Leipzig)",
+    "distractors": [
+      "Hansa Rostock",
+      "Dynamo Dresden",
+      "Energie Cottbus"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-7e719d52dacf",
+    "lang": "en",
+    "prompt": "In which direction is a ray of light refracted when it passes into an optically denser medium (with a higher refractive index)?",
+    "answer": "Toward the normal",
+    "distractors": [
+      "Away from the normal",
+      "Parallel to the boundary surface",
+      "It is not refracted at all"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-arts-dd4695cc644c",
+    "lang": "en",
+    "prompt": "In Tolkien's mythology, who created the universe Eä and the world Arda through the Music of the Ainur?",
+    "answer": "Eru Ilúvatar",
+    "distractors": [
+      "Manwë",
+      "Melkor",
+      "Aulë"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 4,
+    "category": "arts"
+  },
+  {
+    "id": "en-science-045400056153",
+    "lang": "en",
+    "prompt": "Which compound is a classic saline solution essentially made of?",
+    "answer": "Sodium and chloride (sodium chloride)",
+    "distractors": [
+      "Potassium and magnesium",
+      "Calcium and carbonate",
+      "Hydrogen and oxygen"
+    ],
+    "tags": [
+      "science",
+      "chemistry"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-technology-c43dfa26efd6",
+    "lang": "en",
+    "prompt": "Which live-video streaming platform has a purple logo?",
+    "answer": "Twitch",
+    "distractors": [
+      "YouTube",
+      "Netflix",
+      "TikTok"
+    ],
+    "tags": [
+      "technology",
+      "brands"
+    ],
+    "difficulty": 1,
+    "category": "technology"
+  },
+  {
+    "id": "en-science-53b91de21a0e",
+    "lang": "en",
+    "prompt": "How many lungs does a human usually have?",
+    "answer": "Two",
+    "distractors": [
+      "One",
+      "Three",
+      "Four"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-technology-f6f4bd7c4157",
+    "lang": "en",
+    "prompt": "In which country did the first nuclear power plant go into operation?",
+    "answer": "Soviet Union (Obninsk)",
+    "distractors": [
+      "USA",
+      "Japan",
+      "United Kingdom"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-technology-d47625584698",
+    "lang": "en",
+    "prompt": "Which company produces the PDF editor Acrobat as well as software such as Premiere and Photoshop?",
+    "answer": "Adobe",
+    "distractors": [
+      "Corel",
+      "Autodesk",
+      "Microsoft"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "category": "technology"
+  },
+  {
+    "id": "en-sports-fec61dae0828",
+    "lang": "en",
+    "prompt": "How long does a regular adult handball match last in total (two halves without overtime)?",
+    "answer": "60 minutes",
+    "distractors": [
+      "90 minutes",
+      "70 minutes",
+      "50 minutes"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-nature-d7d51e4fd706",
+    "lang": "en",
+    "prompt": "What is a woodcock?",
+    "answer": "A bird",
+    "distractors": [
+      "An insect",
+      "A snail",
+      "A mushroom"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-arts-de2701c29014",
+    "lang": "en",
+    "prompt": "Which country did Vincent van Gogh come from?",
+    "answer": "Netherlands",
+    "distractors": [
+      "Belgium",
+      "France",
+      "Germany"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-nature-60e36275f9f0",
+    "lang": "en",
+    "prompt": "Approximately how many times per second does a honeybee beat its wings on average?",
+    "answer": "About 230 times",
+    "distractors": [
+      "About 20 times",
+      "About 60 times",
+      "About 1000 times"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 4,
+    "category": "nature"
+  },
+  {
+    "id": "en-history-6488a357bb8d",
+    "lang": "en",
+    "prompt": "In what year did American folk singer and civil rights activist Joan Baez found the Institute for the Study of Nonviolence?",
+    "answer": "1965",
+    "distractors": [
+      "1962",
+      "1968",
+      "1971"
+    ],
+    "tags": [
+      "history",
+      "activism",
+      "folk music",
+      "nonviolence"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-nature-6cd9afa1f11c",
+    "lang": "en",
+    "prompt": "To which class of animals does the ostrich belong?",
+    "answer": "Bird",
+    "distractors": [
+      "Amphibian",
+      "Fish",
+      "Insect"
+    ],
+    "tags": [
+      "nature",
+      "animals",
+      "classification"
+    ],
+    "difficulty": 1,
+    "category": "nature"
+  },
+  {
+    "id": "en-nature-9a7a7d5a71c9",
+    "lang": "en",
+    "prompt": "What do you call a newborn sheep?",
+    "answer": "Lamb",
+    "distractors": [
+      "Calf",
+      "Foal",
+      "Piglet"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 1,
+    "category": "nature"
+  },
+  {
+    "id": "en-history-50b4b4a1b9bd",
+    "lang": "en",
+    "prompt": "On what date is International Women's Day celebrated?",
+    "answer": "March 8",
+    "distractors": [
+      "May 1",
+      "September 8",
+      "March 1"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-history-4fa764523059",
+    "lang": "en",
+    "prompt": "What miracle did Jesus perform at the wedding at Cana?",
+    "answer": "He turned water into wine",
+    "distractors": [
+      "He healed a blind man",
+      "He raised a dead man",
+      "He multiplied bread and fish"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-technology-ce2903a87691",
+    "lang": "en",
+    "prompt": "In which year did the platform YouTube go online?",
+    "answer": "2005",
+    "distractors": [
+      "2004",
+      "2006",
+      "2007"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-technology-85c067997254",
+    "lang": "en",
+    "prompt": "Which two digits form the basic foundation for every operation in a computer's binary system?",
+    "answer": "0 and 1",
+    "distractors": [
+      "1 and 2",
+      "0 and 9",
+      "1 and 0 and 2"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 1,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-a690c1a51a87",
+    "lang": "en",
+    "prompt": "Which two colors does the flag of Indonesia have?",
+    "answer": "Red and white",
+    "distractors": [
+      "Red and blue",
+      "Green and white",
+      "Red, white and blue"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-nature-ce22cd79ab1d",
+    "lang": "en",
+    "prompt": "What is the name of the uppermost, most fertile layer of soil?",
+    "answer": "Topsoil",
+    "distractors": [
+      "Subsoil",
+      "Humus horizon",
+      "Loess soil"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 2,
+    "category": "nature"
+  },
+  {
+    "id": "en-history-1aacb48f7f32",
+    "lang": "en",
+    "prompt": "Which club became the first German champion in men's football in 1903?",
+    "answer": "VfB Leipzig",
+    "distractors": [
+      "DFC Prague",
+      "Karlsruher FV",
+      "FC Bayern Munich"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-history-81e4ffeeb57b",
+    "lang": "en",
+    "prompt": "In which era did knights live?",
+    "answer": "In the Middle Ages",
+    "distractors": [
+      "In antiquity",
+      "In the modern era",
+      "In the Stone Age"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 1,
+    "category": "history"
+  },
+  {
+    "id": "en-arts-8b8d54d9d894",
+    "lang": "en",
+    "prompt": "Who wrote the Harry Potter books?",
+    "answer": "J. K. Rowling",
+    "distractors": [
+      "Stephenie Meyer",
+      "Suzanne Collins",
+      "Enid Blyton"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-science-ebc8a30e72d0",
+    "lang": "en",
+    "prompt": "What kind of light is used in a tanning bed?",
+    "answer": "UV light (ultraviolet radiation)",
+    "distractors": [
+      "Infrared light",
+      "X-rays",
+      "Laser light"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-technology-2ba668b1d333",
+    "lang": "en",
+    "prompt": "What is the name of Tesla's first pickup truck?",
+    "answer": "Cybertruck",
+    "distractors": [
+      "Roadster",
+      "Semi",
+      "Powertruck"
+    ],
+    "tags": [
+      "technology",
+      "cars"
+    ],
+    "difficulty": 2,
+    "category": "technology"
+  },
+  {
+    "id": "en-history-d3fd34dd2174",
+    "lang": "en",
+    "prompt": "In J.R.R. Tolkien's 'The Lord of the Rings', what is the name of the landlord of the inn 'The Prancing Pony' in Bree?",
+    "answer": "Barliman Butterbur",
+    "distractors": [
+      "Rosie Cotton",
+      "Tom Bombadil",
+      "Farmer Maggot"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-science-9cf5dd75ef1e",
+    "lang": "en",
+    "prompt": "Under which brand name is the para-aramid fiber better known?",
+    "answer": "Kevlar",
+    "distractors": [
+      "Aspirin",
+      "Teflon",
+      "Nylon"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-science-3f0f9fd40cc0",
+    "lang": "en",
+    "prompt": "Which of these three is NOT a bone in the human body: the stapes, the funny bone, or the parietal bone?",
+    "answer": "The funny bone",
+    "distractors": [
+      "The stapes",
+      "The parietal bone",
+      "The lunate bone"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-sports-b8b649321778",
+    "lang": "en",
+    "prompt": "What record does the McLaren-Honda MP4/4 from the 1988 season hold?",
+    "answer": "Highest win rate in a season: 15 wins in 16 races",
+    "distractors": [
+      "First car with active suspension",
+      "Fastest top speed ever measured",
+      "Most pole positions by a constructor overall"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 4,
+    "category": "sports"
+  },
+  {
+    "id": "en-sports-b99dfdd0de6c",
+    "lang": "en",
+    "prompt": "In which year did the German men's national soccer team become world champions for the second time?",
+    "answer": "1974",
+    "distractors": [
+      "1954",
+      "1990",
+      "1970"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-geography-01cc51e47393",
+    "lang": "en",
+    "prompt": "What is the capital of Brazil?",
+    "answer": "Brasília",
+    "distractors": [
+      "Riyadh",
+      "Tehran",
+      "Baghdad"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "south-america"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-5ab0d3c124ab",
+    "lang": "en",
+    "prompt": "What is the capital of the German state of Baden-Württemberg?",
+    "answer": "Stuttgart",
+    "distractors": [
+      "Mannheim",
+      "Karlsruhe",
+      "Freiburg"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "germany",
+      "europe"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-57413f422b63",
+    "lang": "en",
+    "prompt": "On which continent is Chile?",
+    "answer": "South America",
+    "distractors": [
+      "Europe",
+      "Africa",
+      "Asia"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "south-america"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-technology-8321b7ebc102",
+    "lang": "en",
+    "prompt": "What special property does a traditional 'skeleton key' have that an ordinary house key lacks?",
+    "answer": "It can open many different locks, not just one.",
+    "distractors": [
+      "It is made from a lightweight ceramic alloy.",
+      "It automatically resets a lock's combination after use.",
+      "It snaps in half after a single use to prevent copying."
+    ],
+    "tags": [
+      "technology",
+      "locks",
+      "keys"
+    ],
+    "difficulty": 2,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-b22a8dcb1ab4",
+    "lang": "en",
+    "prompt": "On which continent is Colombia?",
+    "answer": "South America",
+    "distractors": [
+      "Asia",
+      "North America",
+      "Oceania"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "south-america"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-nature-44713b0ec113",
+    "lang": "en",
+    "prompt": "What is the transformation of an animal from its larval form into the adult animal called?",
+    "answer": "Metamorphosis",
+    "distractors": [
+      "Mutation",
+      "Mimicry",
+      "Regeneration"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 2,
+    "category": "nature"
+  },
+  {
+    "id": "en-geography-da7c41ddcf56",
+    "lang": "en",
+    "prompt": "In which ocean are the Canary Islands located?",
+    "answer": "The Atlantic Ocean",
+    "distractors": [
+      "The Mediterranean Sea",
+      "The Pacific Ocean",
+      "The Indian Ocean"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-technology-8111e5c8d29a",
+    "lang": "en",
+    "prompt": "Which file format do you typically open with Acrobat Reader?",
+    "answer": "PDF",
+    "distractors": [
+      "DOC",
+      "JPG",
+      "TXT"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-4ccced5b4f66",
+    "lang": "en",
+    "prompt": "Which European capital lies the furthest west?",
+    "answer": "Reykjavík",
+    "distractors": [
+      "Lisbon",
+      "Madrid",
+      "Dublin"
+    ],
+    "tags": [
+      "geography",
+      "capitals"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-47ef1bf21a9f",
+    "lang": "en",
+    "prompt": "When a solid absorbs enough heat to turn into a liquid, what is that process called?",
+    "answer": "Melting",
+    "distractors": [
+      "Evaporation",
+      "Sublimation",
+      "Condensation"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "states of matter"
+    ],
+    "difficulty": 1,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-dce958f14f27",
+    "lang": "en",
+    "prompt": "What is the capital of Jordan?",
+    "answer": "Amman",
+    "distractors": [
+      "Wellington",
+      "Algiers",
+      "Tunis"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "asia"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-technology-4a0d94047385",
+    "lang": "en",
+    "prompt": "In the abbreviation CD-ROM, the 'ROM' refers to a type of memory that can only be read, never rewritten. What does ROM stand for?",
+    "answer": "Read-Only Memory",
+    "distractors": [
+      "Random Access Memory",
+      "Read-Only Media",
+      "Removable Optical Memory"
+    ],
+    "tags": [
+      "technology",
+      "computer memory",
+      "acronyms",
+      "storage"
+    ],
+    "difficulty": 2,
+    "category": "technology"
+  },
+  {
+    "id": "en-science-f5bb354b1650",
+    "lang": "en",
+    "prompt": "Which chemical element has the symbol \"Mn\"?",
+    "answer": "Manganese",
+    "distractors": [
+      "Iron",
+      "Cobalt",
+      "Nickel"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-nature-b9c0bbc88759",
+    "lang": "en",
+    "prompt": "The Bichon Frise, a small white companion dog, is traditionally believed to have originated near which Spanish island chain?",
+    "answer": "the Canary Islands",
+    "distractors": [
+      "the Balearic Islands",
+      "Sicily",
+      "Corsica"
+    ],
+    "tags": [
+      "nature",
+      "dogs"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-technology-f985f37ed0cc",
+    "lang": "en",
+    "prompt": "In which year did the first iPhone come onto the market?",
+    "answer": "2007",
+    "distractors": [
+      "2006",
+      "2008",
+      "2005"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-nature-7194392b4bc7",
+    "lang": "en",
+    "prompt": "What are birds called that fly south in winter?",
+    "answer": "Migratory birds",
+    "distractors": [
+      "Resident birds",
+      "Tropical birds",
+      "Roaming birds"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 2,
+    "category": "nature"
+  },
+  {
+    "id": "en-technology-b9d3c4785e2f",
+    "lang": "en",
+    "prompt": "Who invented the diesel engine?",
+    "answer": "Rudolf Diesel",
+    "distractors": [
+      "Carl Benz",
+      "Nikolaus Otto",
+      "Gottlieb Daimler"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "category": "technology"
+  },
+  {
+    "id": "en-science-97bb0bb3c0ff",
+    "lang": "en",
+    "prompt": "After which German city is a chemical element on the periodic table named?",
+    "answer": "Darmstadt (darmstadtium)",
+    "distractors": [
+      "Eisenstadt",
+      "Brom (a town)",
+      "Castrop-Rauxel"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 4,
+    "category": "science"
+  },
+  {
+    "id": "en-technology-a9c4d104c21f",
+    "lang": "en",
+    "prompt": "What do you measure with a multimeter?",
+    "answer": "Electrical quantities such as current, voltage, and resistance",
+    "distractors": [
+      "Humidity",
+      "Temperature",
+      "Air pressure"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-history-481a1afe579a",
+    "lang": "en",
+    "prompt": "How many wives did King Solomon supposedly have?",
+    "answer": "1000",
+    "distractors": [
+      "40",
+      "100",
+      "300"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-nature-8c28b2c2c2d7",
+    "lang": "en",
+    "prompt": "To which class of animals does the penguin belong?",
+    "answer": "Bird",
+    "distractors": [
+      "Reptile",
+      "Amphibian",
+      "Fish"
+    ],
+    "tags": [
+      "nature",
+      "animals",
+      "classification"
+    ],
+    "difficulty": 1,
+    "category": "nature"
+  },
+  {
+    "id": "en-geography-ba30883f5701",
+    "lang": "en",
+    "prompt": "In which country is Mount Everest located?",
+    "answer": "Nepal",
+    "distractors": [
+      "India",
+      "China",
+      "Bhutan"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-arts-dd02f510a9fb",
+    "lang": "en",
+    "prompt": "Which needlecraft technique requires working with at least two needles to form and interlock loops of yarn?",
+    "answer": "hand knitting",
+    "distractors": [
+      "crochet",
+      "embroidery",
+      "tatting"
+    ],
+    "tags": [
+      "arts",
+      "knitting",
+      "needlework",
+      "crafts"
+    ],
+    "difficulty": 2,
+    "category": "arts"
+  },
+  {
+    "id": "en-sports-3af8505a1983",
+    "lang": "en",
+    "prompt": "Who was the first person to climb Mount Everest without supplemental oxygen?",
+    "answer": "Reinhold Messner",
+    "distractors": [
+      "Edmund Hillary",
+      "Tenzing Norgay",
+      "Peter Habeler"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 4,
+    "category": "sports"
+  },
+  {
+    "id": "en-geography-cc75076cb8b7",
+    "lang": "en",
+    "prompt": "Which colors does the flag of the Netherlands have?",
+    "answer": "Red, white and blue",
+    "distractors": [
+      "Red, white and orange",
+      "Blue, white and yellow",
+      "Red, yellow and blue"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-e51c89fc9f56",
+    "lang": "en",
+    "prompt": "Which chemical element has the symbol \"S\"?",
+    "answer": "Sulfur",
+    "distractors": [
+      "Chlorine",
+      "Potassium",
+      "Calcium"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-history-650f0d3f887e",
+    "lang": "en",
+    "prompt": "Which four US presidents are immortalized as stone heads on Mount Rushmore?",
+    "answer": "George Washington, Thomas Jefferson, Theodore Roosevelt and Abraham Lincoln",
+    "distractors": [
+      "Washington, Lincoln, Kennedy and Reagan",
+      "Jefferson, Lincoln, Truman and Eisenhower",
+      "Washington, Franklin, Roosevelt and Wilson"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-history-bb7023c42ad3",
+    "lang": "en",
+    "prompt": "Who put forward the famous 95 Theses that are regarded as the trigger of the Reformation?",
+    "answer": "Martin Luther",
+    "distractors": [
+      "John Calvin",
+      "Thomas Müntzer",
+      "Philipp Melanchthon"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 1,
+    "category": "history"
+  },
+  {
+    "id": "en-history-d0034a388e54",
+    "lang": "en",
+    "prompt": "How many years did the construction of Cologne Cathedral take until its official completion in 1880?",
+    "answer": "632 years (construction began in 1248)",
+    "distractors": [
+      "432 years",
+      "250 years",
+      "800 years"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-sports-007f9471818c",
+    "lang": "en",
+    "prompt": "What is the NCAA-organized final tournament of the U.S. college basketball championship colloquially called?",
+    "answer": "March Madness",
+    "distractors": [
+      "Final Four Cup",
+      "College Bowl",
+      "Spring Classic"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 4,
+    "category": "sports"
+  },
+  {
+    "id": "en-nature-31450226c51a",
+    "lang": "en",
+    "prompt": "What special feature do monotremes such as the platypus show in their reproduction?",
+    "answer": "They lay eggs, even though they are mammals",
+    "distractors": [
+      "They give birth to live young",
+      "They carry their young in a pouch",
+      "They change their sex"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 4,
+    "category": "nature"
+  },
+  {
+    "id": "en-science-b88e5105a300",
+    "lang": "en",
+    "prompt": "In which organ of the body is the bone called the 'hammer' (malleus) located?",
+    "answer": "In the ear",
+    "distractors": [
+      "In the hand",
+      "In the knee",
+      "In the foot"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-a0532cf256cb",
+    "lang": "en",
+    "prompt": "What is the capital of Egypt?",
+    "answer": "Cairo",
+    "distractors": [
+      "Ottawa",
+      "Mexico City",
+      "Havana"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "africa"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-technology-5e42bd8439b7",
+    "lang": "en",
+    "prompt": "What does the “USB” in a USB port stand for?",
+    "answer": "Universal Serial Bus",
+    "distractors": [
+      "Universal System Bus",
+      "United Serial Buffer",
+      "Universal Storage Block"
+    ],
+    "tags": [
+      "technology",
+      "computing"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-technology-65af6dfec70c",
+    "lang": "en",
+    "prompt": "What does the ISO value indicate in photography?",
+    "answer": "Light sensitivity",
+    "distractors": [
+      "Exposure time",
+      "Aperture opening",
+      "Focal length"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-a4a651065cb0",
+    "lang": "en",
+    "prompt": "Since the United Kingdom's 1971 decimalisation, how many pence equal one British pound sterling?",
+    "answer": "100",
+    "distractors": [
+      "12",
+      "20",
+      "240"
+    ],
+    "tags": [
+      "geography",
+      "currency",
+      "UK",
+      "money"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-028a2496027f",
+    "lang": "en",
+    "prompt": "Which Scandinavian country is home to the furniture company IKEA and the pop group ABBA?",
+    "answer": "Sweden",
+    "distractors": [
+      "Norway",
+      "Denmark",
+      "Finland"
+    ],
+    "tags": [
+      "geography",
+      "countries"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-f0cd9483aba8",
+    "lang": "en",
+    "prompt": "How many years did the Thirty Years' War last?",
+    "answer": "30 years",
+    "distractors": [
+      "20 years",
+      "40 years",
+      "50 years"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 1,
+    "category": "history"
+  },
+  {
+    "id": "en-history-fe4b88ab98de",
+    "lang": "en",
+    "prompt": "What is considered the engine of the Industrial Revolution?",
+    "answer": "The steam engine",
+    "distractors": [
+      "The automobile",
+      "Electricity",
+      "The loom"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-science-fed1e76f0617",
+    "lang": "en",
+    "prompt": "Which substance makes a plant's leaves green?",
+    "answer": "Chlorophyll",
+    "distractors": [
+      "Carotene",
+      "Melanin",
+      "Hemoglobin"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-history-561dc8d7eb29",
+    "lang": "en",
+    "prompt": "In which year was the Federal Republic of Germany founded?",
+    "answer": "1949",
+    "distractors": [
+      "1945",
+      "1947",
+      "1955"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 1,
+    "category": "history"
+  },
+  {
+    "id": "en-nature-7a5826e1d707",
+    "lang": "en",
+    "prompt": "What often happens to the male during a praying mantis's mating?",
+    "answer": "The female bites off its head",
+    "distractors": [
+      "It turns bright red",
+      "It loses its wings",
+      "It buries itself afterwards"
+    ],
+    "tags": [
+      "nature",
+      "animals"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-technology-abd310afd92e",
+    "lang": "en",
+    "prompt": "Released in 1985, the Apple Macintosh XL was essentially a rebadged version of which earlier Apple computer?",
+    "answer": "Lisa 2",
+    "distractors": [
+      "Apple III",
+      "Apple IIc",
+      "Newton MessagePad"
+    ],
+    "tags": [
+      "technology",
+      "apple",
+      "computer-history"
+    ],
+    "difficulty": 4,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-ba0de69918da",
+    "lang": "en",
+    "prompt": "On which continent is United Arab Emirates?",
+    "answer": "Asia",
+    "distractors": [
+      "Africa",
+      "North America",
+      "South America"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "asia"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-94c6df0af6a7",
+    "lang": "en",
+    "prompt": "Which curve best describes the trajectory of a projectile thrown at an angle?",
+    "answer": "Parabola",
+    "distractors": [
+      "Straight line",
+      "Circular arc",
+      "Hyperbola"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-sports-53419a4abaaf",
+    "lang": "en",
+    "prompt": "What is the highest score you can achieve in darts with three throws (a single visit)?",
+    "answer": "180",
+    "distractors": [
+      "150",
+      "170",
+      "200"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-nature-f3a695b94e70",
+    "lang": "en",
+    "prompt": "How many eyes does a duck have?",
+    "answer": "Two",
+    "distractors": [
+      "One",
+      "Four",
+      "Three"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 1,
+    "category": "nature"
+  },
+  {
+    "id": "en-sports-b8425dd2cbb6",
+    "lang": "en",
+    "prompt": "How many players from one team are on the court in basketball?",
+    "answer": "5",
+    "distractors": [
+      "6",
+      "7",
+      "4"
+    ],
+    "tags": [
+      "sports",
+      "basketball"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-science-ea866035105e",
+    "lang": "en",
+    "prompt": "What is an emerald?",
+    "answer": "A gemstone",
+    "distractors": [
+      "A metal",
+      "A mineral salt",
+      "A rock"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-history-03f027bbb3a7",
+    "lang": "en",
+    "prompt": "How does Article 1 of the German Basic Law begin?",
+    "answer": "Human dignity is inviolable",
+    "distractors": [
+      "All people are equal",
+      "Germany is a republic",
+      "Everyone has the right to life"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-342de3e9b90d",
+    "lang": "en",
+    "prompt": "What is the capital of Costa Rica?",
+    "answer": "San José",
+    "distractors": [
+      "Asunción",
+      "Minsk",
+      "Tirana"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "north-america"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-949b5e53eb37",
+    "lang": "en",
+    "prompt": "What is the highest uninterrupted waterfall in the world?",
+    "answer": "Angel Falls",
+    "distractors": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Iguazú Falls"
+    ],
+    "tags": [
+      "geography",
+      "south-america"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-90ab5bc9adfc",
+    "lang": "en",
+    "prompt": "What is the capital of Denmark?",
+    "answer": "Copenhagen",
+    "distractors": [
+      "Helsinki",
+      "Warsaw",
+      "Dublin"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "europe"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-89bcef6f7b38",
+    "lang": "en",
+    "prompt": "Which river flows through Cairo?",
+    "answer": "Nile",
+    "distractors": [
+      "Euphrates",
+      "Congo",
+      "Niger"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-27e9c1ac8a7d",
+    "lang": "en",
+    "prompt": "What is the capital of Algeria?",
+    "answer": "Algiers",
+    "distractors": [
+      "Beirut",
+      "Amman",
+      "Ulaanbaatar"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "africa"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-b60fa2aaa874",
+    "lang": "en",
+    "prompt": "What is the capital of Panama?",
+    "answer": "Panama City",
+    "distractors": [
+      "Montevideo",
+      "Asunción",
+      "Minsk"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "north-america"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-7a0da046b0f4",
+    "lang": "en",
+    "prompt": "Name a country that borders Latvia.",
+    "answer": "Lithuania",
+    "distractors": [
+      "Poland",
+      "Finland",
+      "Sweden"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-36295b9a521c",
+    "lang": "en",
+    "prompt": "Which green organelle in plant cells uses sunlight to convert carbon dioxide and water into sugar?",
+    "answer": "Chloroplast",
+    "distractors": [
+      "Mitochondrion",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "tags": [
+      "science",
+      "biology"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-sports-6454f7ac3b28",
+    "lang": "en",
+    "prompt": "What is the lead performer in a Spanish bullfight called?",
+    "answer": "Matador",
+    "distractors": [
+      "Picador",
+      "Banderillero",
+      "Caballero"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-science-a121c23c4e3f",
+    "lang": "en",
+    "prompt": "Which process takes place in the mitochondria of a cell?",
+    "answer": "Cellular respiration",
+    "distractors": [
+      "Cell division",
+      "Photosynthesis",
+      "Protein degradation"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-science-c968cb0d012f",
+    "lang": "en",
+    "prompt": "How many elements does the periodic table comprise (counting all known elements)?",
+    "answer": "118",
+    "distractors": [
+      "92",
+      "100",
+      "150"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-technology-c287deb9e648",
+    "lang": "en",
+    "prompt": "Which sports car manufacturer makes the 911?",
+    "answer": "Porsche",
+    "distractors": [
+      "Ferrari",
+      "Lamborghini",
+      "Maserati"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "category": "technology"
+  },
+  {
+    "id": "en-technology-2626b96822f7",
+    "lang": "en",
+    "prompt": "What is the top-level domain of Canada?",
+    "answer": ".ca",
+    "distractors": [
+      ".cn",
+      ".ka",
+      ".cd"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-caefc29db7bb",
+    "lang": "en",
+    "prompt": "What is the main official language of Mexico?",
+    "answer": "Spanish",
+    "distractors": [
+      "Portuguese",
+      "Mexican",
+      "English"
+    ],
+    "tags": [
+      "geography",
+      "languages"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-e7a2924b3d70",
+    "lang": "en",
+    "prompt": "What was special about the construction of the rock-hewn churches of Lalibela in Ethiopia?",
+    "answer": "They were carved out of solid rock",
+    "distractors": [
+      "They were built from mud bricks",
+      "They were built entirely of wood",
+      "They were constructed underwater"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-history-60327797aad4",
+    "lang": "en",
+    "prompt": "In which year did World War I end?",
+    "answer": "1918",
+    "distractors": [
+      "1914",
+      "1919",
+      "1945"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-arts-77bb61e36e35",
+    "lang": "en",
+    "prompt": "Which artist created the famous marble statue 'David'?",
+    "answer": "Michelangelo",
+    "distractors": [
+      "Donatello",
+      "Bernini",
+      "Auguste Rodin"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-history-afb6a624bf3e",
+    "lang": "en",
+    "prompt": "Founded in Ohio in 1833, which college became the first in the United States to admit women into the same academic program as men?",
+    "answer": "Oberlin College",
+    "distractors": [
+      "Antioch College",
+      "Swarthmore College",
+      "Cornell University"
+    ],
+    "tags": [
+      "history",
+      "Oberlin College",
+      "coeducation",
+      "US higher education history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-history-46e032a10eb5",
+    "lang": "en",
+    "prompt": "Which number U.S. President was Barack Obama?",
+    "answer": "The 44th",
+    "distractors": [
+      "The 42nd",
+      "The 43rd",
+      "The 45th"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-ae993b54c4f0",
+    "lang": "en",
+    "prompt": "In which country would you find the Acropolis?",
+    "answer": "Greece",
+    "distractors": [
+      "Spain",
+      "China",
+      "Egypt"
+    ],
+    "tags": [
+      "geography",
+      "landmarks",
+      "europe"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-sports-7f8aac9340ba",
+    "lang": "en",
+    "prompt": "In which city did the 1996 Summer Olympics take place?",
+    "answer": "Atlanta",
+    "distractors": [
+      "Sydney",
+      "Barcelona",
+      "Athens"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-sports-e176733ae9d2",
+    "lang": "en",
+    "prompt": "Which bird gives its name to a diving (faking a foul) maneuver in soccer?",
+    "answer": "The swallow (a 'dive')",
+    "distractors": [
+      "The eagle",
+      "The dove",
+      "The falcon"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-sports-211acba5acfe",
+    "lang": "en",
+    "prompt": "Which country does the martial art of Taekwondo come from?",
+    "answer": "South Korea",
+    "distractors": [
+      "Japan",
+      "China",
+      "Thailand"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-history-f86029c16244",
+    "lang": "en",
+    "prompt": "In which German state did the Federal Intelligence Service (BND) have its headquarters before moving to Berlin?",
+    "answer": "Bavaria (Pullach)",
+    "distractors": [
+      "North Rhine-Westphalia",
+      "Hesse",
+      "Baden-Württemberg"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-science-2bafe2a29b76",
+    "lang": "en",
+    "prompt": "Which sex is represented by a symbol consisting of a circle with a cross below it?",
+    "answer": "Female",
+    "distractors": [
+      "Male",
+      "Intersex",
+      "Hermaphrodite"
+    ],
+    "tags": [
+      "science",
+      "symbols",
+      "biology"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-science-7cc718fcfd82",
+    "lang": "en",
+    "prompt": "Which two metals make up bronze?",
+    "answer": "Copper and tin",
+    "distractors": [
+      "Copper and zinc",
+      "Iron and carbon",
+      "Copper and nickel"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 3,
+    "category": "science"
+  },
+  {
+    "id": "en-arts-72afdea06fc5",
+    "lang": "en",
+    "prompt": "What is the title of the fourth Harry Potter novel?",
+    "answer": "Harry Potter and the Goblet of Fire",
+    "distractors": [
+      "Harry Potter and the Order of the Phoenix",
+      "Harry Potter and the Prisoner of Azkaban",
+      "Harry Potter and the Deathly Hallows"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-geography-51fe72a1c639",
+    "lang": "en",
+    "prompt": "What is the capital of the U.S. state of Maryland?",
+    "answer": "Annapolis",
+    "distractors": [
+      "Baltimore",
+      "Frederick",
+      "Rockville"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "usa",
+      "north-america"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-nature-8d74dc7ab993",
+    "lang": "en",
+    "prompt": "What does a camel store in its humps?",
+    "answer": "Fat",
+    "distractors": [
+      "Water",
+      "Muscle tissue",
+      "Bone marrow"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 2,
+    "category": "nature"
+  },
+  {
+    "id": "en-geography-35a0394f9549",
+    "lang": "en",
+    "prompt": "What is the capital of Chile?",
+    "answer": "Santiago",
+    "distractors": [
+      "Baghdad",
+      "Astana",
+      "Washington, D.C."
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "south-america"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-7d0b8fb3d060",
+    "lang": "en",
+    "prompt": "Which traditional Christmas pastry comes from Dresden?",
+    "answer": "Christstollen (Dresden Stollen)",
+    "distractors": [
+      "Dominosteine",
+      "Lebkuchen",
+      "Spekulatius"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-a8bbf89b75b9",
+    "lang": "en",
+    "prompt": "What kind of religious building, unique in Germany, stands in the towns of Friedrichsdorf (Hesse) and Freiberg (Saxony)?",
+    "answer": "Mormon temples",
+    "distractors": [
+      "Buddhist temples",
+      "Hindu temples",
+      "Synagogues"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 4,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-f1b6838c1af4",
+    "lang": "en",
+    "prompt": "What is the capital of Albania?",
+    "answer": "Tirana",
+    "distractors": [
+      "Kingston",
+      "Guatemala City",
+      "Tbilisi"
+    ],
+    "tags": [
+      "geography",
+      "capitals",
+      "europe"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-a8855f068a57",
+    "lang": "en",
+    "prompt": "In which country would you find the Statue of Liberty?",
+    "answer": "United States",
+    "distractors": [
+      "United Kingdom",
+      "Germany",
+      "India"
+    ],
+    "tags": [
+      "geography",
+      "landmarks",
+      "north-america"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-science-b28f5ba912d4",
+    "lang": "en",
+    "prompt": "What is the smallest unit of an organism capable of living independently?",
+    "answer": "Cell",
+    "distractors": [
+      "Molecule",
+      "Organ",
+      "Tissue"
+    ],
+    "tags": [
+      "science",
+      "biology"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-geography-b08ee6d87694",
+    "lang": "en",
+    "prompt": "On which continent is Malaysia?",
+    "answer": "Asia",
+    "distractors": [
+      "Oceania",
+      "Europe",
+      "Africa"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "asia"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-0f2861a1b3bb",
+    "lang": "en",
+    "prompt": "The famous highway anti-littering slogan 'Don't Mess with ___' became a badge of state pride for which U.S. state?",
+    "answer": "Texas",
+    "distractors": [
+      "Montana",
+      "Nevada",
+      "Alaska"
+    ],
+    "tags": [
+      "geography",
+      "usa",
+      "slogans"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-nature-14e443e18054",
+    "lang": "en",
+    "prompt": "What are the hexagonal compartments in which bees store their honey called?",
+    "answer": "Honeycombs",
+    "distractors": [
+      "Cells",
+      "Chambers",
+      "Cups"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 2,
+    "category": "nature"
+  },
+  {
+    "id": "en-science-21cd71bba775",
+    "lang": "en",
+    "prompt": "What does the abbreviation 'cl' stand for as a unit of measurement?",
+    "answer": "Centiliter",
+    "distractors": [
+      "Cubic liter",
+      "Centiliter per liter",
+      "Half liter"
+    ],
+    "tags": [
+      "science"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-science-7755541bcba5",
+    "lang": "en",
+    "prompt": "What is the chemical symbol for oxygen?",
+    "answer": "O",
+    "distractors": [
+      "F",
+      "Ne",
+      "Na"
+    ],
+    "tags": [
+      "science",
+      "chemistry",
+      "elements"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-science-ffd5b3b99f55",
+    "lang": "en",
+    "prompt": "Roughly how many kilometers per second does light travel through a vacuum?",
+    "answer": "About 300,000 km/s",
+    "distractors": [
+      "About 150,000 km/s",
+      "About 1,000,000 km/s",
+      "About 30,000 km/s"
+    ],
+    "tags": [
+      "science",
+      "physics",
+      "constants"
+    ],
+    "difficulty": 2,
+    "category": "science"
+  },
+  {
+    "id": "en-technology-69637dbbf88b",
+    "lang": "en",
+    "prompt": "How many inner edges does a hexagonal Allen key (hex key) have?",
+    "answer": "Six",
+    "distractors": [
+      "Four",
+      "Five",
+      "Eight"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-technology-8fb4b0d7d4a5",
+    "lang": "en",
+    "prompt": "What does the abbreviation 'OBS' stand for in the well-known streaming software?",
+    "answer": "Open Broadcaster Software",
+    "distractors": [
+      "Online Broadcast System",
+      "Open Broadcast Service",
+      "Optimal Broadcasting Software"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-ae4dfeec71b2",
+    "lang": "en",
+    "prompt": "What are the two official languages of Cyprus?",
+    "answer": "Greek and Turkish",
+    "distractors": [
+      "English and Greek",
+      "Turkish and Arabic",
+      "Greek and Italian"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-fc5e93a1b8c8",
+    "lang": "en",
+    "prompt": "In which country would you find the Taj Mahal?",
+    "answer": "India",
+    "distractors": [
+      "Brazil",
+      "Australia",
+      "Peru"
+    ],
+    "tags": [
+      "geography",
+      "landmarks",
+      "asia"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-sports-2faa4d9b59c1",
+    "lang": "en",
+    "prompt": "At which venue is England's most important tennis championship played?",
+    "answer": "Wimbledon",
+    "distractors": [
+      "Roland Garros",
+      "Flushing Meadows",
+      "Melbourne Park"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-geography-c3790285455b",
+    "lang": "en",
+    "prompt": "What is the Russian equivalent of Santa Claus called (translated as 'Father Frost')?",
+    "answer": "Ded Moroz",
+    "distractors": [
+      "Snegurochka",
+      "Babushka",
+      "Moroz Ivanovich"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 4,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-a3a7828b8ad1",
+    "lang": "en",
+    "prompt": "Which candidate did Donald Trump defeat to win his first presidential election?",
+    "answer": "Hillary Clinton",
+    "distractors": [
+      "Kamala Harris",
+      "Nancy Pelosi",
+      "Sarah Palin"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-sports-af849be35285",
+    "lang": "en",
+    "prompt": "In the National Hockey League, a regulation game is divided into three periods — how many minutes long is each period?",
+    "answer": "20 minutes",
+    "distractors": [
+      "15 minutes",
+      "12 minutes",
+      "10 minutes"
+    ],
+    "tags": [
+      "sports",
+      "ice hockey",
+      "NHL",
+      "sports rules"
+    ],
+    "difficulty": 2,
+    "category": "sports"
+  },
+  {
+    "id": "en-sports-d630ffc65ffe",
+    "lang": "en",
+    "prompt": "Which country is the longtime driver of the Formula 1 safety car, Bernd Mayländer, from?",
+    "answer": "Germany",
+    "distractors": [
+      "Austria",
+      "Switzerland",
+      "Italy"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-technology-c12f6ea36cca",
+    "lang": "en",
+    "prompt": "Which passenger aircraft was known for flying faster than the speed of sound?",
+    "answer": "The Concorde",
+    "distractors": [
+      "The Boeing 747",
+      "The Airbus A380",
+      "The Tupolev Tu-144"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-geography-a8f2d3c5bf6b",
+    "lang": "en",
+    "prompt": "On which continent is China?",
+    "answer": "Asia",
+    "distractors": [
+      "North America",
+      "South America",
+      "Oceania"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "asia"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-69ab725b152d",
+    "lang": "en",
+    "prompt": "Julius Caesar was an important general and dictator of which empire?",
+    "answer": "The Roman Empire",
+    "distractors": [
+      "The Greek Empire",
+      "The Persian Empire",
+      "The Egyptian Empire"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 2,
+    "category": "history"
+  },
+  {
+    "id": "en-arts-7bbb4c2c271b",
+    "lang": "en",
+    "prompt": "In which museum can you admire the Mona Lisa?",
+    "answer": "The Louvre in Paris",
+    "distractors": [
+      "The Uffizi in Florence",
+      "The Prado in Madrid",
+      "The National Gallery in London"
+    ],
+    "tags": [
+      "arts"
+    ],
+    "difficulty": 3,
+    "category": "arts"
+  },
+  {
+    "id": "en-geography-c8135bd37737",
+    "lang": "en",
+    "prompt": "On which continent is Albania?",
+    "answer": "Europe",
+    "distractors": [
+      "Oceania",
+      "Africa",
+      "Asia"
+    ],
+    "tags": [
+      "geography",
+      "continents",
+      "europe"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-0f95d82e8245",
+    "lang": "en",
+    "prompt": "Rising in the Swiss Alps and flowing through Lake Geneva and southern France, the Rhône River ultimately empties into which sea?",
+    "answer": "The Mediterranean Sea",
+    "distractors": [
+      "The Atlantic Ocean",
+      "The North Sea",
+      "The Adriatic Sea"
+    ],
+    "tags": [
+      "geography",
+      "rivers",
+      "Europe"
+    ],
+    "difficulty": 2,
+    "category": "geography"
+  },
+  {
+    "id": "en-history-0d01aebb57ed",
+    "lang": "en",
+    "prompt": "Which country gave the Statue of Liberty in New York as a gift?",
+    "answer": "France",
+    "distractors": [
+      "Netherlands",
+      "United Kingdom",
+      "Spain"
+    ],
+    "tags": [
+      "history"
+    ],
+    "difficulty": 3,
+    "category": "history"
+  },
+  {
+    "id": "en-geography-56209dcf1edc",
+    "lang": "en",
+    "prompt": "In which building does the American president live?",
+    "answer": "In the White House",
+    "distractors": [
+      "In the Capitol",
+      "In the Pentagon",
+      "In the Empire State Building"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 1,
+    "category": "geography"
+  },
+  {
+    "id": "en-geography-b356762b349d",
+    "lang": "en",
+    "prompt": "With under 100,000 inhabitants, which city is the smallest state capital in Germany?",
+    "answer": "Schwerin",
+    "distractors": [
+      "Potsdam",
+      "Erfurt",
+      "Magdeburg"
+    ],
+    "tags": [
+      "geography"
+    ],
+    "difficulty": 3,
+    "category": "geography"
+  },
+  {
+    "id": "en-nature-93c14e37eb99",
+    "lang": "en",
+    "prompt": "To which insect family does the firefly belong?",
+    "answer": "Fireflies (lampyridae)",
+    "distractors": [
+      "Hoverflies",
+      "Ladybugs",
+      "Ground beetles"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-sports-00cef48fd818",
+    "lang": "en",
+    "prompt": "What material are curling stones made from?",
+    "answer": "Granite",
+    "distractors": [
+      "Marble",
+      "Steel",
+      "Concrete"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-nature-1f911c334c23",
+    "lang": "en",
+    "prompt": "To which group of animals do horseshoe bats belong?",
+    "answer": "Bats",
+    "distractors": [
+      "Rodents",
+      "Insectivores (shrews)",
+      "Marsupials"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-sports-62a550402626",
+    "lang": "en",
+    "prompt": "In which country is Schwingen, a variant of wrestling, a traditional national sport?",
+    "answer": "Switzerland",
+    "distractors": [
+      "Austria",
+      "Canada",
+      "South Korea"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-technology-2d5faacb9ead",
+    "lang": "en",
+    "prompt": "What does the L stand for in the broadcaster name RTL?",
+    "answer": "Luxembourg",
+    "distractors": [
+      "Land",
+      "Live",
+      "Local"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-technology-4bae2969234f",
+    "lang": "en",
+    "prompt": "Which three colors make up the RGB color model?",
+    "answer": "Red, green, and blue",
+    "distractors": [
+      "Red, yellow, and blue",
+      "Cyan, magenta, and yellow",
+      "Red, white, and black"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "category": "technology"
+  },
+  {
+    "id": "en-sports-0f3c09a679bb",
+    "lang": "en",
+    "prompt": "At just 5-foot-7, this guard remains the shortest player to ever win the NBA Slam Dunk Contest. Which team was he playing for when he won the title in 1986?",
+    "answer": "Atlanta Hawks",
+    "distractors": [
+      "Sacramento Kings",
+      "Minnesota Timberwolves",
+      "Orlando Magic"
+    ],
+    "tags": [
+      "sports",
+      "nba",
+      "slam dunk contest",
+      "basketball"
+    ],
+    "difficulty": 3,
+    "category": "sports"
+  },
+  {
+    "id": "en-nature-7cce1bc7ce9b",
+    "lang": "en",
+    "prompt": "On which continent is the flightless, two-legged running bird the emu native?",
+    "answer": "Australia",
+    "distractors": [
+      "South America",
+      "Africa",
+      "Asia"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-nature-015e319a9c8c",
+    "lang": "en",
+    "prompt": "In which group of animals are the ampullae of Lorenzini found, with which they perceive electrical signals?",
+    "answer": "Sharks",
+    "distractors": [
+      "Dolphins",
+      "Eels",
+      "Octopuses"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 4,
+    "category": "nature"
+  },
+  {
+    "id": "en-technology-a55c6a551733",
+    "lang": "en",
+    "prompt": "Which country does the car brand Nissan come from?",
+    "answer": "Japan",
+    "distractors": [
+      "South Korea",
+      "China",
+      "Germany"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "category": "technology"
+  },
+  {
+    "id": "en-technology-122849e1c9be",
+    "lang": "en",
+    "prompt": "Which company developed the PlayStation game console?",
+    "answer": "Sony",
+    "distractors": [
+      "Microsoft",
+      "Nintendo",
+      "Sega"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 1,
+    "category": "technology"
+  },
+  {
+    "id": "en-math-9036331dad94",
+    "lang": "en",
+    "prompt": "How many degrees must an angle have to form a straight line (a straight angle)?",
+    "answer": "180 degrees",
+    "distractors": [
+      "90 degrees",
+      "360 degrees",
+      "45 degrees"
+    ],
+    "tags": [
+      "math"
+    ],
+    "difficulty": 2,
+    "category": "math"
+  },
+  {
+    "id": "en-math-158b404fbd92",
+    "lang": "en",
+    "prompt": "What is 9 × 6?",
+    "answer": "54",
+    "distractors": [
+      "63",
+      "60",
+      "45"
+    ],
+    "tags": [
+      "math",
+      "arithmetic"
+    ],
+    "difficulty": 2,
+    "category": "math"
+  },
+  {
+    "id": "en-technology-7f2ad6c5fb0f",
+    "lang": "en",
+    "prompt": "What does the joking IT abbreviation PEBKAC stand for?",
+    "answer": "Problem Exists Between Keyboard And Chair",
+    "distractors": [
+      "Personal Error By Keyboard And Computer",
+      "Public Error Before Keyboard Access Code",
+      "Program Ends Because Keyboard Acts Crazy"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-nature-d75d06e7b8e8",
+    "lang": "en",
+    "prompt": "From the flower of which plant is the expensive spice saffron obtained?",
+    "answer": "The crocus",
+    "distractors": [
+      "The tulip",
+      "Lavender",
+      "The marigold"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 3,
+    "category": "nature"
+  },
+  {
+    "id": "en-math-40c3239e74ad",
+    "lang": "en",
+    "prompt": "Which arithmetic rule states that multiplication and division are carried out before addition and subtraction?",
+    "answer": "Order of operations (multiplication and division before addition and subtraction)",
+    "distractors": [
+      "Addition and subtraction before multiplication and division",
+      "Left before right",
+      "Parentheses before multiplication"
+    ],
+    "tags": [
+      "math"
+    ],
+    "difficulty": 2,
+    "category": "math"
+  },
+  {
+    "id": "en-nature-c33f6c956a8f",
+    "lang": "en",
+    "prompt": "What is the offspring of a deer called?",
+    "answer": "Fawn",
+    "distractors": [
+      "Lamb",
+      "Foal",
+      "Puppy"
+    ],
+    "tags": [
+      "nature"
+    ],
+    "difficulty": 2,
+    "category": "nature"
+  },
+  {
+    "id": "en-math-374389527617",
+    "lang": "en",
+    "prompt": "How many thirds make a whole?",
+    "answer": "Three",
+    "distractors": [
+      "Two",
+      "Four",
+      "Six"
+    ],
+    "tags": [
+      "math"
+    ],
+    "difficulty": 1,
+    "category": "math"
+  },
+  {
+    "id": "en-technology-b0dfd145bd5f",
+    "lang": "en",
+    "prompt": "How long did it take to produce a car at Henry Ford's plant after he introduced the assembly line in 1914 (Ford Model T)?",
+    "answer": "About 1 hour and 33 minutes (93 minutes)",
+    "distractors": [
+      "About 6 minutes",
+      "About 25 minutes",
+      "About 4 hours"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-technology-30a64c6e3b51",
+    "lang": "en",
+    "prompt": "Which domain ending belongs to the Netherlands?",
+    "answer": ".nl",
+    "distractors": [
+      ".ne",
+      ".na",
+      ".nd"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "category": "technology"
+  },
+  {
+    "id": "en-technology-2432550b85e0",
+    "lang": "en",
+    "prompt": "Which country does the internet domain '.mn' stand for?",
+    "answer": "Mongolia",
+    "distractors": [
+      "Monaco",
+      "Montenegro",
+      "Marshall Islands"
+    ],
+    "tags": [
+      "technology"
+    ],
+    "difficulty": 4,
+    "category": "technology"
+  },
+  {
+    "id": "en-math-14a4b73fb779",
+    "lang": "en",
+    "prompt": "What do the interior angles of a triangle add up to?",
+    "answer": "180°",
+    "distractors": [
+      "90°",
+      "270°",
+      "360°"
+    ],
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "difficulty": 2,
+    "category": "math"
+  },
+  {
+    "id": "en-technology-04ab1787c5fb",
+    "lang": "en",
+    "prompt": "The midsize sedan called the Sonata, first launched in 1985, is built by which South Korean automaker?",
+    "answer": "Hyundai",
+    "distractors": [
+      "Kia",
+      "Genesis",
+      "Daewoo"
+    ],
+    "tags": [
+      "technology",
+      "automobiles",
+      "car brands",
+      "south korea"
+    ],
+    "difficulty": 1,
+    "category": "technology"
+  },
+  {
+    "id": "en-technology-ac3a6f61da14",
+    "lang": "en",
+    "prompt": "On a car equipped with disc brakes, which part clamps the brake pads against the spinning rotor?",
+    "answer": "The caliper",
+    "distractors": [
+      "The master cylinder",
+      "The brake booster",
+      "The wheel cylinder"
+    ],
+    "tags": [
+      "technology",
+      "cars",
+      "brakes",
+      "mechanics"
+    ],
+    "difficulty": 3,
+    "category": "technology"
+  },
+  {
+    "id": "en-math-9535c2e62670",
+    "lang": "en",
+    "prompt": "In the US customary (avoirdupois) weight system, one pound is defined as equal to how many ounces?",
+    "answer": "16",
+    "distractors": [
+      "8",
+      "12",
+      "20"
+    ],
+    "tags": [
+      "math",
+      "units",
+      "ounces",
+      "pounds",
+      "measurement"
+    ],
+    "difficulty": 1,
+    "category": "math"
+  },
+  {
+    "id": "en-math-08adf49d33fc",
+    "lang": "en",
+    "prompt": "What is 12 × 12?",
+    "answer": "144",
+    "distractors": [
+      "156",
+      "132",
+      "145"
+    ],
+    "tags": [
+      "math",
+      "arithmetic"
+    ],
+    "difficulty": 3,
+    "category": "math"
+  },
+  {
+    "id": "en-math-e791f18c9c79",
+    "lang": "en",
+    "prompt": "In the Fibonacci sequence 1, 1, 2, 3, 5, 8, … what number comes next?",
+    "answer": "13",
+    "distractors": [
+      "11",
+      "12",
+      "16"
+    ],
+    "tags": [
+      "math",
+      "numbers"
+    ],
+    "difficulty": 3,
+    "category": "math"
+  },
+  {
+    "id": "en-math-6e434cf33da0",
+    "lang": "en",
+    "prompt": "What is 3 + 3 × 3?",
+    "answer": "12",
+    "distractors": [
+      "18",
+      "15",
+      "9"
+    ],
+    "tags": [
+      "math"
+    ],
+    "difficulty": 2,
+    "category": "math"
+  },
+  {
+    "id": "en-math-8f1218ab27a7",
+    "lang": "en",
+    "prompt": "Which field of science encompasses statistics and probability theory?",
+    "answer": "Mathematics",
+    "distractors": [
+      "Physics",
+      "Computer science",
+      "Chemistry"
+    ],
+    "tags": [
+      "math"
+    ],
+    "difficulty": 1,
+    "category": "math"
+  },
+  {
+    "id": "en-math-cb0075c9d125",
+    "lang": "en",
+    "prompt": "Which geometric shape has four sides of equal length and four right angles?",
+    "answer": "Square",
+    "distractors": [
+      "Rectangle",
+      "Rhombus",
+      "Trapezoid"
+    ],
+    "tags": [
+      "math"
+    ],
+    "difficulty": 1,
+    "category": "math"
+  },
+  {
+    "id": "en-math-87f5c16f551f",
+    "lang": "en",
+    "prompt": "What is the square root of 225?",
+    "answer": "15",
+    "distractors": [
+      "25",
+      "12.5",
+      "45"
+    ],
+    "tags": [
+      "math"
+    ],
+    "difficulty": 2,
+    "category": "math"
+  },
+  {
+    "id": "en-food-47df18ab33fc",
+    "lang": "en",
+    "prompt": "What are the main ingredients used to make marzipan?",
+    "answer": "Almonds and sugar",
+    "distractors": [
+      "Walnuts and honey",
+      "Hazelnuts and cream",
+      "Cashews and syrup"
+    ],
+    "tags": [
+      "food"
+    ],
+    "difficulty": 2,
+    "category": "food"
+  },
+  {
+    "id": "en-food-e24dd3708272",
+    "lang": "en",
+    "prompt": "What is the name of the honey wine that Vikings liked to drink in the Middle Ages?",
+    "answer": "Mead",
+    "distractors": [
+      "Cider",
+      "Mulled wine",
+      "Beer"
+    ],
+    "tags": [
+      "food"
+    ],
+    "difficulty": 2,
+    "category": "food"
+  },
+  {
+    "id": "en-food-62bfc71dd8fc",
+    "lang": "en",
+    "prompt": "A staple of Southern American soul food cuisine, this dish is made by thoroughly cleaning and slow-cooking a pig's small intestines. What is this dish commonly called?",
+    "answer": "Chitlins (chitterlings)",
+    "distractors": [
+      "Scrapple",
+      "Souse",
+      "Haggis"
+    ],
+    "tags": [
+      "food",
+      "soul food",
+      "offal",
+      "Southern US cuisine"
+    ],
+    "difficulty": 3,
+    "category": "food"
+  },
+  {
+    "id": "en-math-fa8e43c130dc",
+    "lang": "en",
+    "prompt": "What are the first two decimal places of the number Pi?",
+    "answer": "14",
+    "distractors": [
+      "26",
+      "41",
+      "13"
+    ],
+    "tags": [
+      "math"
+    ],
+    "difficulty": 2,
+    "category": "math"
+  },
+  {
+    "id": "en-math-ad4bd84fc555",
+    "lang": "en",
+    "prompt": "How many degrees are there in a full circle?",
+    "answer": "360°",
+    "distractors": [
+      "180°",
+      "90°",
+      "720°"
+    ],
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "difficulty": 1,
+    "category": "math"
+  },
+  {
+    "id": "en-math-b84a9a5d061f",
+    "lang": "en",
+    "prompt": "What is 9 × 9?",
+    "answer": "81",
+    "distractors": [
+      "90",
+      "72",
+      "82"
+    ],
+    "tags": [
+      "math",
+      "arithmetic"
+    ],
+    "difficulty": 2,
+    "category": "math"
+  },
+  {
+    "id": "en-math-51c3dd2df6e1",
+    "lang": "en",
+    "prompt": "What is the formula for the volume of a sphere?",
+    "answer": "V = 4/3 · π · r³",
+    "distractors": [
+      "V = 4 · π · r²",
+      "V = 1/3 · π · r³",
+      "V = 4/3 · π · r²"
+    ],
+    "tags": [
+      "math"
+    ],
+    "difficulty": 3,
+    "category": "math"
+  },
+  {
+    "id": "en-math-dbad187e6214",
+    "lang": "en",
+    "prompt": "What is 2 + 2 × 3 following the order of operations?",
+    "answer": "8",
+    "distractors": [
+      "12",
+      "10",
+      "6"
+    ],
+    "tags": [
+      "math",
+      "arithmetic"
+    ],
+    "difficulty": 1,
+    "category": "math"
+  }
+]

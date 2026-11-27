@@ -78,3 +78,7 @@ Chạy `npm test` để kiểm tra xử lý comment, tính điểm, giới hạn
 ## Giới hạn của bản MVP
 
 Ứng dụng dùng Node HTTP, SSE và tệp JSON. Chưa có PostgreSQL/Redis, React hoặc giọng đọc AI từ dịch vụ bên ngoài. Tùy chọn giọng đọc dùng Web Speech API của trình duyệt, chất lượng tùy máy phát. Trợ giúp “Hỏi AI” hiện tạo gợi ý từ lời giải có sẵn. Ngân hàng 100 câu mẫu cần được biên tập trước khi phát sóng lâu dài. Kết nối LIVE trực tiếp chưa thể kiểm chứng với kênh của anh cho đến khi kênh đang live.
+
+## Thêm câu hỏi trong lúc live
+
+Bấm **＋ Nhập thêm câu hỏi** cạnh các nút điều khiển, chọn file JSON. Hệ thống báo số câu mới, số câu trùng đã bỏ qua và tổng ngân hàng. Câu đang phát, thời gian trả lời và điểm được giữ; câu mới được chọn ở các lượt tiếp theo theo độ khó. Có sẵn bộ question-bank/CAU_HOI_BO_SUNG_500.json không trùng bộ 2.000 câu trước. File cần một mảng câu hỏi hoặc đối tượng có questions; giới hạn yêu cầu import là 8 MB. Câu không ghi approved được phép dùng ngay; đặt approved:false để chờ duyệt. Game ưu tiên câu chưa xuất hiện trong lịch sử lưu (tối đa 10.000 lượt); sau đó chọn câu được hỏi lâu nhất.
